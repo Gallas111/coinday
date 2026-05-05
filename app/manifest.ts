@@ -10,8 +10,8 @@ export default function manifest(): MetadataRoute.Manifest {
       "비트코인·이더리움부터 신규 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·분석 매체",
     start_url: "/",
     display: "standalone",
-    background_color: "#0a0e1a",
-    theme_color: "#0a0e1a",
+    background_color: "#fafbfd",
+    theme_color: "#fafbfd",
     orientation: "portrait",
     lang: "ko-KR",
     icons: [
