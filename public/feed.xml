@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coinday — 오늘의 코인, 한 눈에</title>
+    <link>https://www.coindaynow.com</link>
+    <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
+    <language>ko</language>
+    <lastBuildDate>Tue, 05 May 2026 10:26:56 GMT</lastBuildDate>
+    <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[AI 코인 TOP 5 — TAO·RNDR·FET·NEAR·AKT 시가총액과 토크노믹스 정리 (2026년 5월)]]></title>
+      <link>https://www.coindaynow.com/blog/ai-crypto-coins-top5-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/ai-crypto-coins-top5-2026</guid>
+      <description><![CDATA[2026년 5월 기준 AI 섹터 대표 5개 코인(TAO·RNDR·FET·NEAR·AKT)의 시가총액·토크노믹스·유틸리티·리스크를 정리했어요. 매매 권유가 아닌 정보 제공 글이며 변동성·원금 손실 위험은 본인이 부담합니다.]]></description>
+      <category>알트코인</category>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[바이낸스 vs 바이비트 수수료 비교 — 현물·선물·옵션 6가지 항목 정리 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/binance-vs-bybit-fee-comparison</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/binance-vs-bybit-fee-comparison</guid>
+      <description><![CDATA[글로벌 1·2위 거래소 바이낸스(Binance)와 바이비트(Bybit)의 현물·선물·옵션 수수료, VIP 할인, 입출금 비용을 6가지 항목으로 비교했어요. 매매 권유가 아닌 정보 정리 글이며 변동성·원금 손실 위험은 본인이 부담합니다.]]></description>
+      <category>거래소</category>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[비트코인 시세 5월 전망 — 8만 달러 구간 흐름과 거시 변수 정리 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/bitcoin-price-may-2026-forecast</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-price-may-2026-forecast</guid>
+      <description><![CDATA[2026년 5월 비트코인 시세 흐름을 8만 달러 구간 매물대, FOMC 의장 교체, ETF 자금 흐름, 점도표 시나리오로 정리했어요. 매매 권유가 아닌 시장 흐름 정보 제공 글입니다. 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
+      <category>시세·전망</category>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[이더리움 스테이킹 가이드 — Lido vs Rocket Pool 5가지 차이 정리 (2026년 5월)]]></title>
+      <link>https://www.coindaynow.com/blog/ethereum-staking-lido-vs-rocketpool-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/ethereum-staking-lido-vs-rocketpool-guide</guid>
+      <description><![CDATA[이더리움 유동성 스테이킹 1·2위 Lido(stETH)와 Rocket Pool(rETH)의 APR·수수료·탈중앙화·DeFi 활용을 5가지 항목으로 정리했어요. 매매 권유가 아닌 정보 정리 글이며 스마트 컨트랙트 위험·원금 손실 위험은 본인이 부담합니다.]]></description>
+      <category>DeFi·NFT</category>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[RSI 활용 비트코인 매매 가이드 — 14주기·다이버전스·다중 시간프레임 정리]]></title>
+      <link>https://www.coindaynow.com/blog/rsi-bitcoin-trading-strategy-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/rsi-bitcoin-trading-strategy-guide</guid>
+      <description><![CDATA[비트코인 트레이딩에서 RSI(상대강도지수) 14주기·30/70 라인·다이버전스·다중 시간프레임 활용법을 단계별로 정리했어요. 매매 권유가 아닌 기술적 지표 학습 글이며 변동성·원금 손실 위험은 본인이 부담합니다.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

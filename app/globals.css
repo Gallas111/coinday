@@ -1,0 +1,627 @@
+@import "tailwindcss";
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css");
+
+/* G마켓 산스 — 헤드라인·로고용 (다운로드 폰트, OFL 라이센스) */
+@font-face {
+  font-family: 'GmarketSans';
+  src: url('/fonts/GmarketSansTTFLight.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'GmarketSans';
+  src: url('/fonts/GmarketSansTTFMedium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'GmarketSans';
+  src: url('/fonts/GmarketSansTTFBold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 디스플레이·헤드라인 폰트 유틸 */
+.display,
+.heading-display {
+  font-family: 'GmarketSans', 'Pretendard Variable', Pretendard, -apple-system, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+/*
+ * Coinday 디자인 시스템
+ * 톤: 다크 베이스 + 비트코인 오렌지 액센트 + 시안 보조 + 형광 그린/레드 시그널
+ * 벤치마킹: CoinGecko · TradingView · Binance · Bybit
+ */
+
+/* 다크 모드 (기본) */
+:root,
+:root[data-theme="dark"] {
+  /* Surface */
+  --background: #0a0e1a;       /* deep crypto navy */
+  --surface: #111726;          /* card·section bg */
+  --surface-2: #1a2236;        /* hover, raised card */
+  --border: #1e2942;           /* default border */
+  --border-strong: #2c3a5c;    /* strong divider */
+
+  /* Text */
+  --foreground: #e7ecf5;
+  --muted: #8893ac;
+  --muted-strong: #b6c0d6;
+
+  /* Brand — Bitcoin orange (primary) */
+  --accent: #f7931a;           /* btc orange — CTA, logo, headlines */
+  --accent-strong: #ffb454;    /* hover */
+  --accent-soft: rgba(247, 147, 26, 0.13);
+
+  /* Brand secondary — neon cyan (links, charts, highlights) */
+  --accent-2: #00d9ff;
+  --accent-2-strong: #4ee8ff;
+  --accent-2-soft: rgba(0, 217, 255, 0.12);
+
+  /* Market signal — bright crypto green/red */
+  --up: #00d395;               /* 상승 */
+  --up-soft: rgba(0, 211, 149, 0.13);
+  --down: #ff3d5a;             /* 하락 */
+  --down-soft: rgba(255, 61, 90, 0.13);
+
+  /* Disclosure (면책·주의) */
+  --warn: #f5b647;
+  --warn-soft: rgba(245, 182, 71, 0.10);
+
+  /* Mono accent (티커·숫자) */
+  --mono-accent: #00d9ff;
+
+  /* Body backdrop gradients (다크) */
+  --bd-1: rgba(247, 147, 26, 0.07);
+  --bd-2: rgba(0, 217, 255, 0.05);
+  --bd-3: rgba(0, 211, 149, 0.04);
+
+  color-scheme: dark;
+}
+
+/* 라이트 모드 */
+:root[data-theme="light"] {
+  /* Surface */
+  --background: #fafbfd;       /* near-white */
+  --surface: #ffffff;          /* card·section bg */
+  --surface-2: #f1f4f9;        /* hover, raised card */
+  --border: #e3e8f0;           /* default border */
+  --border-strong: #cbd3df;    /* strong divider */
+
+  /* Text */
+  --foreground: #0e1422;       /* deep slate */
+  --muted: #5e6b80;
+  --muted-strong: #2d3850;
+
+  /* Brand — Bitcoin orange (라이트는 contrast 위해 살짝 진하게) */
+  --accent: #ea7c00;           /* deeper btc orange */
+  --accent-strong: #b85d00;
+  --accent-soft: rgba(234, 124, 0, 0.10);
+
+  /* Brand secondary — cyan/blue */
+  --accent-2: #0099c2;
+  --accent-2-strong: #00688a;
+  --accent-2-soft: rgba(0, 153, 194, 0.10);
+
+  /* Market signal */
+  --up: #00a87a;
+  --up-soft: rgba(0, 168, 122, 0.10);
+  --down: #d83245;
+  --down-soft: rgba(216, 50, 69, 0.10);
+
+  /* Disclosure */
+  --warn: #b8780b;
+  --warn-soft: rgba(184, 120, 11, 0.10);
+
+  /* Mono accent */
+  --mono-accent: #0099c2;
+
+  /* Body backdrop gradients */
+  --bd-1: rgba(234, 124, 0, 0.04);
+  --bd-2: rgba(0, 153, 194, 0.03);
+  --bd-3: rgba(0, 168, 122, 0.02);
+
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-muted-strong: var(--muted-strong);
+  --color-accent: var(--accent);
+  --color-accent-strong: var(--accent-strong);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-2: var(--accent-2);
+  --color-accent-2-strong: var(--accent-2-strong);
+  --color-accent-2-soft: var(--accent-2-soft);
+  --color-up: var(--up);
+  --color-up-soft: var(--up-soft);
+  --color-down: var(--down);
+  --color-down-soft: var(--down-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-mono-accent: var(--mono-accent);
+
+  /* legacy alias (saju·bukbukstock 시절 클래스 호환) */
+  --color-card-bg: var(--surface);
+  --color-card-border: var(--border);
+  --color-gold: var(--accent);
+  --color-gold-light: var(--accent-strong);
+  --color-gold-dark: var(--accent);
+  --color-purple: var(--accent-2);
+  --color-purple-dark: var(--accent-2-strong);
+  --color-link: var(--accent-2);
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html, body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  background:
+    radial-gradient(circle at 15% 0%, var(--bd-1) 0%, transparent 38%),
+    radial-gradient(circle at 85% 18%, var(--bd-2) 0%, transparent 35%),
+    radial-gradient(circle at 70% 100%, var(--bd-3) 0%, transparent 40%),
+    var(--background);
+  color: var(--foreground);
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Segoe UI", var(--font-sans), Helvetica, Arial, sans-serif;
+  font-feature-settings: "ss01", "cv11";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.005em;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* 한글 우선이지만 영문·티커는 모노로 자동 분리 */
+.tabular,
+.ticker,
+.mono,
+code {
+  font-family: var(--font-mono), "JetBrains Mono", ui-monospace, SFMono-Regular, Consolas, monospace !important;
+}
+
+/* 데이터·티커·숫자는 모노 + 약한 글로우 */
+.tabular,
+.ticker,
+.mono {
+  font-family: var(--font-mono), "JetBrains Mono", ui-monospace, SFMono-Regular, Consolas, monospace;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.01em;
+}
+
+.ticker {
+  color: var(--mono-accent);
+  font-weight: 600;
+}
+
+.up { color: var(--up); }
+.down { color: var(--down); }
+
+/* 긴 영단어·URL 줄바꿈 */
+.prose p, .prose li, .prose h1, .prose h2, .prose h3, .prose h4 {
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+/* Prose */
+.prose {
+  max-width: 72ch;
+  line-height: 1.8;
+  color: var(--foreground);
+  font-size: 1rem;
+}
+
+.prose h1, .prose h2, .prose h3, .prose h4 {
+  color: var(--foreground);
+  font-weight: 700;
+  margin-top: 2.4em;
+  margin-bottom: 0.8em;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+}
+
+/* 본문 큰 헤드라인은 GmarketSans (포스트 제목·H2 임팩트) */
+.prose h1, .prose h2 {
+  font-family: 'GmarketSans', 'Pretendard Variable', Pretendard, -apple-system, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+.prose h2 {
+  font-size: clamp(1.4rem, 3.5vw, 1.6rem);
+  position: relative;
+  padding-left: 0.9em;
+}
+
+.prose h2::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.3em;
+  bottom: 0.3em;
+  width: 4px;
+  background: linear-gradient(180deg, var(--accent), var(--accent-2));
+  border-radius: 2px;
+}
+
+.prose h3 {
+  font-size: clamp(1.15rem, 3vw, 1.3rem);
+  color: var(--accent-strong);
+}
+
+.prose h4 {
+  font-size: clamp(1rem, 2.5vw, 1.1rem);
+  color: var(--muted-strong);
+}
+
+.prose p {
+  margin-bottom: 1.2em;
+  color: var(--foreground);
+}
+
+.prose a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid var(--accent-soft);
+  padding-bottom: 1px;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.prose a:hover {
+  color: var(--accent-strong);
+  border-bottom-color: var(--accent);
+}
+
+.prose strong {
+  color: var(--foreground);
+  font-weight: 700;
+  background: var(--accent-soft);
+  padding: 0.05em 0.3em;
+  border-radius: 3px;
+}
+
+.prose ul, .prose ol {
+  margin-bottom: 1.2em;
+  padding-left: 1.5em;
+}
+
+.prose li {
+  margin-bottom: 0.4em;
+}
+
+.prose ul li::marker {
+  color: var(--accent);
+}
+
+.prose ol li::marker {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.prose blockquote {
+  border-left: 3px solid var(--accent);
+  background: var(--surface);
+  padding: 0.8em 1.2em;
+  margin: 1.5em 0;
+  color: var(--muted-strong);
+  font-style: normal;
+  border-radius: 0 8px 8px 0;
+}
+
+.prose code {
+  background: var(--surface-2);
+  color: var(--mono-accent);
+  padding: 0.15em 0.45em;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-family: var(--font-mono), "JetBrains Mono", monospace;
+  border: 1px solid var(--border);
+}
+
+.prose pre {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.2em;
+  overflow-x: auto;
+  margin: 1.8em 0;
+  font-size: 0.875rem;
+}
+
+.prose pre code {
+  background: none;
+  border: none;
+  padding: 0;
+  color: var(--foreground);
+}
+
+.prose hr {
+  border: none;
+  border-top: 1px dashed var(--border);
+  margin: 2.4em 0;
+}
+
+/* 테이블 — 데이터 분석 매체 핵심 */
+.prose table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin: 1.8em 0;
+  -webkit-overflow-scrolling: touch;
+  font-size: 0.92em;
+}
+
+.prose table tbody, .prose table thead {
+  width: 100%;
+}
+
+.prose th, .prose td {
+  border: 1px solid var(--border);
+  padding: 0.7em 1em;
+  text-align: left;
+}
+
+.prose th {
+  background: var(--surface-2);
+  color: var(--accent-strong);
+  font-weight: 600;
+  font-size: 0.85em;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-bottom: 2px solid var(--accent);
+}
+
+.prose tr:nth-child(even) td {
+  background: rgba(255, 255, 255, 0.015);
+}
+
+/* 이미지 — 라운드 + 보더 */
+.prose img, .prose video, .prose iframe {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  margin: 1.5em 0;
+}
+
+/* Mobile */
+@media (max-width: 640px) {
+  .prose {
+    line-height: 1.75;
+    font-size: 0.95rem;
+  }
+
+  .prose h2 {
+    padding-left: 0.7em;
+  }
+
+  .prose pre {
+    font-size: 0.82em;
+    padding: 1em;
+  }
+
+  .prose th, .prose td {
+    padding: 0.5em 0.7em;
+    font-size: 0.88em;
+  }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 5px;
+  border: 2px solid var(--background);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted);
+}
+
+/* Selection */
+::selection {
+  background: var(--accent-soft);
+  color: var(--foreground);
+}
+
+/* Utility — animated grid line backdrop (선택 사용) */
+.grid-backdrop {
+  background-image:
+    linear-gradient(var(--border) 1px, transparent 1px),
+    linear-gradient(90deg, var(--border) 1px, transparent 1px);
+  background-size: 64px 64px;
+  background-position: -1px -1px;
+  mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, #000 30%, transparent 70%);
+}
+
+/* Card hover glow — 카테고리·BlogCard·통계 카드 공용 */
+.card-glow {
+  position: relative;
+  transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1), border-color 0.2s, background-color 0.2s;
+  isolation: isolate;
+}
+
+.card-glow::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  background: conic-gradient(
+    from 180deg at 50% 50%,
+    transparent 0deg,
+    rgba(247, 147, 26, 0.45) 60deg,
+    rgba(0, 217, 255, 0.45) 160deg,
+    rgba(0, 211, 149, 0.4) 260deg,
+    transparent 360deg
+  );
+  opacity: 0;
+  transition: opacity 0.3s;
+  z-index: -1;
+  filter: blur(10px);
+}
+
+.card-glow:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+}
+
+.card-glow:hover::before {
+  opacity: 0.6;
+}
+
+/* SVG 차트 라인 애니메이션 */
+@keyframes draw-line {
+  from { stroke-dashoffset: 1000; }
+  to { stroke-dashoffset: 0; }
+}
+
+.chart-line {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: draw-line 2.4s cubic-bezier(0.5, 0, 0.2, 1) forwards;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.4); opacity: 0.6; }
+}
+
+.pulse-dot {
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+/* Marquee for ticker strip */
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+.marquee {
+  display: flex;
+  gap: 2rem;
+  width: max-content;
+  animation: marquee 60s linear infinite;
+}
+
+/* Coinday — 코인 매체 전용 유틸 */
+
+/* Live ticker pill (BTC $98,234 ▲ 2.3%) */
+.ticker-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.85rem;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.ticker-pill:hover {
+  border-color: var(--accent);
+  background: var(--surface-2);
+}
+
+.ticker-pill .symbol {
+  color: var(--muted-strong);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* 가격 변동 화살표 */
+.tick-up::before {
+  content: "▲";
+  color: var(--up);
+  margin-right: 0.25em;
+  font-size: 0.75em;
+}
+
+.tick-down::before {
+  content: "▼";
+  color: var(--down);
+  margin-right: 0.25em;
+  font-size: 0.75em;
+}
+
+/* Neon ring on focus / active */
+.neon-ring {
+  box-shadow:
+    0 0 0 1px var(--accent),
+    0 0 18px -2px var(--accent-soft);
+}
+
+/* 로고·헤드라인 텍스트 그라데이션 (BTC orange → cyan) */
+.brand-gradient {
+  background: linear-gradient(90deg, var(--accent) 0%, var(--accent-2) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+/* 가격 큰 표시 (Hero·통계) */
+.price-display {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  color: var(--foreground);
+}
+
+/* 형광 글로우 텍스트 */
+.glow-orange {
+  text-shadow: 0 0 18px rgba(247, 147, 26, 0.4);
+}
+
+.glow-cyan {
+  text-shadow: 0 0 18px rgba(0, 217, 255, 0.4);
+}
+
+.glow-up {
+  text-shadow: 0 0 16px rgba(0, 211, 149, 0.4);
+}
+
+/* Scanline / dotted backdrop (deeper crypto vibe) */
+.scanline-backdrop {
+  background-image:
+    linear-gradient(rgba(0, 217, 255, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(247, 147, 26, 0.04) 1px, transparent 1px);
+  background-size: 48px 48px;
+  background-position: -1px -1px;
+  mask-image: radial-gradient(ellipse 75% 55% at 50% 0%, #000 25%, transparent 75%);
+}
+
+/* Hero 라이브 스트립 backdrop */
+.live-strip-backdrop {
+  background:
+    linear-gradient(180deg, rgba(247, 147, 26, 0.04), transparent 80%),
+    linear-gradient(90deg, transparent, rgba(0, 217, 255, 0.05) 50%, transparent);
+}
