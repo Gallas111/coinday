@@ -53,21 +53,13 @@ export const metadata: Metadata = {
     type: "website",
     locale: "ko_KR",
     siteName: "Coinday",
-    images: [
-      {
-        url: "/images/og-default.png",
-        width: 1200,
-        height: 630,
-        alt: "Coinday — 오늘의 코인, 한 눈에",
-      },
-    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Coinday — 오늘의 코인, 한 눈에",
     description:
       "비트코인·이더리움부터 신규 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·분석 매체.",
-    images: ["/images/og-default.png"],
+    images: ["/opengraph-image"],
   },
   robots: {
     index: true,
