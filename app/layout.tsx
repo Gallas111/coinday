@@ -82,9 +82,9 @@ export const metadata: Metadata = {
   },
   verification: {
     google: "XmcKBN_dQzAUP_KEFG7ciSP6Oea9mg9goec_zJ8Ob8E",
-    // other: {
-    //   "naver-site-verification": "NAVER_VERIFICATION_CODE",
-    // },
+    other: {
+      "naver-site-verification": "8b675edee65d90647aeb746cddf865b9dd313c2a",
+    },
   },
   alternates: {
     canonical: "/",
