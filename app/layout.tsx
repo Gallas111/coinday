@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   description:
     "비트코인·이더리움부터 신규 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·분석 매체. 정보 제공 목적이며 매매 권유가 아닙니다.",
-  metadataBase: new URL("https://www.coinday.kr"),
+  metadataBase: new URL("https://www.coindaynow.com"),
   icons: {
     icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
     apple: [{ url: "/apple-icon" }],
@@ -133,11 +133,11 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "WebSite",
               name: "Coinday",
-              url: "https://www.coinday.kr",
+              url: "https://www.coindaynow.com",
               potentialAction: {
                 "@type": "SearchAction",
                 target:
-                  "https://www.coinday.kr/search?q={search_term_string}",
+                  "https://www.coindaynow.com/search?q={search_term_string}",
                 "query-input": "required name=search_term_string",
               },
             }),
@@ -146,7 +146,18 @@ export default function RootLayout({
         {children}
         <ScrollToTop />
         <ScrollTracker />
-        {/* GA4·AdSense는 도메인 등록·승인 후 활성화 */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-DN1HXH761P"
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-DN1HXH761P');
+          `}
+        </Script>
       </body>
     </html>
   );

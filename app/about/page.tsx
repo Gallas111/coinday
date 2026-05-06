@@ -26,7 +26,7 @@ export default function AboutPage() {
           Coinday 소개
         </h1>
         <p className="text-[var(--muted-strong)] leading-relaxed mb-10">
-          Coinday(coinday.kr)는 비트코인·이더리움부터 알트코인·DeFi·NFT까지 코인 시장
+          Coinday(coindaynow.com)는 비트코인·이더리움부터 알트코인·DeFi·NFT까지 코인 시장
           전반의 시세·뉴스·전략을 매일 정리하는 정보 매체예요. 본 매체는 정보 제공
           목적으로 운영되며, 특정 코인·토큰의 매수·매도 권유나 투자 자문이 아닙니다.
         </p>
