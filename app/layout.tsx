@@ -80,13 +80,12 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-  // verification은 GSC·Naver 등록 후 발급된 코드로 채우기
-  // verification: {
-  //   google: "GOOGLE_VERIFICATION_CODE",
-  //   other: {
-  //     "naver-site-verification": "NAVER_VERIFICATION_CODE",
-  //   },
-  // },
+  verification: {
+    google: "XmcKBN_dQzAUP_KEFG7ciSP6Oea9mg9goec_zJ8Ob8E",
+    // other: {
+    //   "naver-site-verification": "NAVER_VERIFICATION_CODE",
+    // },
+  },
   alternates: {
     canonical: "/",
     types: {
