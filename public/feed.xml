@@ -5,8 +5,48 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 06 May 2026 10:33:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 04:17:09 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Arbitrum vs Optimism vs Base — 이더리움 L2 3강 비교 (2026.5월)]]></title>
+      <link>https://www.coindaynow.com/blog/arbitrum-optimism-base-l2-comparison-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/arbitrum-optimism-base-l2-comparison-2026</guid>
+      <description><![CDATA[Arbitrum·Optimism·Base 세 이더리움 L2의 TVL·수수료·거래량·토큰 구조를 5월 데이터 기준으로 비교했어요. Base의 추격, Arbitrum의 절대 TVL, Optimism의 슈퍼체인 비전을 객관적으로 정리합니다. 매매 권유가 아닌 정보 제공 글이며 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
+      <category>알트코인</category>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[비트코인 DCA 분할매수 전략 — 12년 백테스트 +6,712% 데이터 정리 (2026.5월)]]></title>
+      <link>https://www.coindaynow.com/blog/bitcoin-dca-strategy-backtest-guide-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-dca-strategy-backtest-guide-2026</guid>
+      <description><![CDATA[비트코인 DCA(분할매수) 전략의 5년·10년·12년 백테스트 데이터를 정리했어요. 매주·매월·공포지수 기반 DCA의 차이, 수수료·세금까지 고려한 실전 운영법까지 객관적으로 분석합니다. 매매 권유가 아닌 정보 제공 글이며 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[이더리움 ETF 자금 흐름 분석 — 5월 첫 주 6천만 달러 순유입 (2026.5월)]]></title>
+      <link>https://www.coindaynow.com/blog/ethereum-etf-inflow-may-2026-analysis</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/ethereum-etf-inflow-may-2026-analysis</guid>
+      <description><![CDATA[이더리움 현물 ETF 자금 흐름을 5월 첫 주 데이터로 정리했어요. 블랙록 ETHA가 견인한 순유입 흐름, 비트코인 ETF와의 격차, 거시 변수까지 객관적으로 분석합니다. 매매 권유가 아닌 정보 제공 글이며 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
+      <category>시세·전망</category>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[업비트 vs 빗썸 수수료·스프레드 완전 비교 (2026.5월)]]></title>
+      <link>https://www.coindaynow.com/blog/upbit-vs-bithumb-fee-spread-comparison-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/upbit-vs-bithumb-fee-spread-comparison-2026</guid>
+      <description><![CDATA[업비트와 빗썸의 수수료·스프레드·유동성·보안을 5월 데이터 기준으로 정리했어요. 표면 수수료만 보면 빗썸이 낮지만 실거래 비용은 유동성에 따라 달라져요. 매매 권유가 아닌 정보 제공 글이며 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
+      <category>거래소</category>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[USDT vs USDC 스테이블코인 완전 비교 — 시총·투명성·MiCA 대응 (2026.5월)]]></title>
+      <link>https://www.coindaynow.com/blog/usdt-vs-usdc-stablecoin-comparison-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/usdt-vs-usdc-stablecoin-comparison-2026</guid>
+      <description><![CDATA[USDT(테더)와 USDC(서클)의 시가총액·준비금 투명성·MiCA 규제 대응을 5월 데이터 기준으로 비교했어요. 어느 쪽이 더 안전한지, 어떤 상황에 어떤 스테이블코인이 유리한지를 객관적으로 정리합니다. 매매 권유가 아닌 정보 제공 글이며 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
+      <category>DeFi·NFT</category>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[비트코인 거래소 잔고 7년 만에 최저 — 고래 매집 신호 정리 (2026.5월)]]></title>
       <link>https://www.coindaynow.com/blog/bitcoin-exchange-balance-7yr-low-2026-may</link>
