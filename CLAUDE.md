@@ -102,3 +102,16 @@ npm run lint   # ESLint
 
 ## 배포 (자동)
 main push → CF Pages 자체 빌드 환경에서 자동 처리. 수동 배포 불필요.
+
+## 한글 자수 룰 (필수, 2026-05-11 추가)
+
+- **최소 자수**: 한글 2500자+ (이 블로그 정책 컷)
+- **검증 명령** (포스팅·보강 후 보고 직전 필수):
+  ```
+  bash ~/scripts/check-post-length.sh coinday --today
+  bash ~/scripts/check-post-length.sh coinday "<slug1,slug2,...>"
+  bash ~/scripts/check-post-length.sh coinday --date YYYY-MM-DD
+  ```
+  exit 0 받을 때까지 보강 반복.
+- ⚠️ **파일 KB ≠ 한글 자수**. KB는 영문·이모지·MDX 마크업 포함. KB로 보고 금지 (5/9·5/11 ai-blog/coinday/easy/baby/health KB 혼동 thin 누적 사고 학습)
+- 사용자 보고 시 이 명령 출력값 그대로 사용
