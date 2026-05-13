@@ -1,0 +1,239 @@
+---
+title: 리퀴드 스테이킹 신규 LST 3종 비교 — Frax sfrxETH·Mantle mETH·Swell swETH 분석
+slug: liquid-staking-frax-mantle-swell-lst-comparison
+description: Lido·Rocket Pool 외 신규 LST 3종(Frax sfrxETH·Mantle mETH·Swell swETH)을 객관적으로 비교했어요. Swell LRT TVL 12.3% 점유, Mantle mETH 11% 점유, Frax 스테이블코인 인프라 통합 등 실제 데이터로 본 구조 차이와 한국 사용자 함정까지 정리했어요. 매매 권유 글이 아니에요.
+category: DeFi·NFT
+tags:
+  - 리퀴드 스테이킹
+  - LST
+  - Frax
+  - Mantle
+  - Swell
+date: '2026-05-13'
+dateModified: '2026-05-13'
+icon: "💧"
+relatedService:
+  label: DeFi·NFT 카테고리 보기
+  href: /category/defi
+keywords:
+  primary: 리퀴드 스테이킹 LST Frax Mantle Swell 비교 2026
+  secondary:
+    - sfrxETH 구조
+    - mETH 스테이킹
+    - swETH 리스테이킹
+  longTail:
+    - 신규 LST 프로토콜 비교
+    - Lido 대안 리퀴드 스테이킹
+    - LRT 리퀴드 리스테이킹 차이
+published: true
+---
+
+리퀴드 스테이킹(LST)은 ETH 스테이킹을 묶어두지 않고 유동성을 유지한 채 보상받을 수 있게 만든 DeFi 프로토콜이에요. Lido(stETH)와 Rocket Pool(rETH)이 시장 점유율 80% 이상을 차지하지만 두 거인 외에도 Frax·Mantle·Swell 같은 신규 LST 프로토콜이 독자적 포지셔닝으로 성장하고 있어요. Swell의 swETH는 리퀴드 리스테이킹(LRT) TVL의 12.3%, Mantle의 mETH는 11%를 차지하고 Frax는 스테이블코인 인프라와 통합된 sfrxETH 구조로 차별화하는 흐름이에요.
+
+이 글은 5월 13일 기준 Frax·Mantle·Swell 3개 신규 LST 프로토콜의 구조·시장 점유·한국 사용자 함정을 정리한 정보 제공 글이에요. 특정 LST 예치·LST 토큰 매매 권유 글이 아니에요. 세 프로토콜의 차이점을 이해하고 본인 판단으로 DeFi 선택을 할 수 있게 돕는 글이에요.
+
+## LST·LRT 차이 — 기본 개념 정리
+
+LST(Liquid Staking Token)는 ETH를 스테이킹하면 받는 유동성 토큰이고 LRT(Liquid Restaking Token)는 그 LST를 EigenLayer 같은 리스테이킹 프로토콜에 한 번 더 예치해서 받는 토큰이에요. 단순 LST가 ETH 스테이킹 보상만 받는다면 LRT는 ETH 보상 + EigenLayer AVS 보상 + 추가 포인트·드롭 이중·삼중 수익 구조예요.
+
+**LST vs LRT 핵심 차이**
+
+- LST: ETH → stETH·rETH·sfrxETH·mETH 등 (ETH 스테이킹 보상만)
+- LRT: ETH → rswETH·ezETH·weETH 등 (ETH 보상 + EigenLayer AVS 보상)
+- LST 위험: ETH 스테이킹 슬래싱·디페그 위험
+- LRT 위험: LST 위험 + EigenLayer AVS 슬래싱·중첩 디페그 위험 + 합성 토큰 복잡도
+- 수익: LST < LRT (대신 LRT 위험도 더 큼)
+
+이 글에서 다루는 Frax·Mantle·Swell 3종 프로토콜은 각각 LST와 LRT 양쪽 다 제공하는 구조로 진화했어요.
+
+## 1. Frax (sfrxETH) — 스테이블코인 인프라 통합 LST
+
+Frax Finance는 2020년 출시된 알고리즘 스테이블코인 프로토콜(FRAX)에서 시작해서 LST·렌딩·DEX까지 통합한 생태계예요. Frax Ether는 그중 LST 부문이고 core 상품이 sfrxETH(staked frxETH)예요.
+
+### Frax Ether 구조
+
+ETH를 frxETH로 1:1 래핑한 뒤 sfrxETH에 예치하면 ETH 스테이킹 보상을 받는 구조예요. frxETH는 그냥 ETH 래퍼이고 보상은 sfrxETH에만 누적돼요. 이 분리 구조 덕분에 사용자는 보상 받을 sfrxETH와 DeFi 유동성 풀에 쓸 frxETH를 선택할 수 있어요.
+
+**Frax Ether 핵심 데이터**
+
+- TVL: Lido·Rocket Pool 대비 작지만 안정적 (정확 수치는 DefiLlama 참조)
+- 거버넌스 토큰: FXS (Frax Shares)
+- 스테이블코인 통합: FRAX·sFRAX·crvUSD 등과 같은 생태계
+- 합의 검증자: Frax Validator 네트워크 운영
+- 5월 시장 점유: Lido·Rocket Pool 대비 3순위권 내외
+
+**Frax Ether 차별 포인트**
+
+- 스테이블코인(FRAX·sFRAX) 인프라와 통합된 LST → DeFi 컴포저빌리티 강점
+- Curve·Convex Finance 강력한 유동성 풀 보유
+- frxETH·sfrxETH 이원 구조 — 유동성과 수익 선택권
+- Fraxlend·Fraxswap 등 자체 DEX·렌딩 통합
+
+**Frax 위험 요소**
+
+- 알고리즘 스테이블코인 FRAX 리스크가 LST에 간접 영향 가능
+- Curve 의존도 — Curve 사고 시 frxETH 유동성 직격
+- Lido·Rocket Pool 대비 작은 TVL → 시장 충격 시 디페그 더 크게 받을 가능성
+- 자체 검증자 네트워크 슬래싱 위험
+
+## 2. Mantle (mETH) — Layer 2 통합 LST
+
+Mantle은 BitDAO 기반 Ethereum L2 솔루션이고 mETH는 Mantle의 LST 상품이에요. 다른 LST와 차별화되는 점은 Mantle L2 생태계와 깊게 통합돼 있다는 거예요.
+
+### mETH 구조
+
+ETH를 Mantle 스테이킹 풀에 예치하면 mETH를 받고 시간이 지나면서 가치가 누적되는 reward-bearing 구조예요. Mantle L2에서 mETH가 기본 통화처럼 활용되고 Mantle 생태계 DeFi 프로토콜에서 mETH 사용 시 추가 인센티브를 받을 수 있어요.
+
+**Mantle mETH 핵심 데이터**
+
+- LRT 시장 점유율: 약 11% (Swell 12.3% 다음 2위권)
+- 거버넌스 토큰: MNT (Mantle 토큰)
+- L2 통합: Mantle L2 메인넷에서 mETH 기본 사용
+- TVL: 신규 LST 중 상위권 (정확 수치는 DefiLlama 참조)
+- 5월 시장 환경: Ethereum 스테이킹 시장 점유 확대 중
+
+**Mantle 차별 포인트**
+
+- Mantle L2와 통합 → L2 내 DeFi 사용 시 mETH 인센티브
+- BitDAO 거대 트레저리 백업 — 자본 안정성 비교적 강함
+- Mantle Treasury가 직접 검증자 운영 — 분산도와 안정성 균형
+- LSP(Liquidity Staking Protocol) 자체 인프라 보유
+
+**Mantle 위험 요소**
+
+- L2 의존도 — Mantle L2 사용량 감소 시 mETH 수요 약화
+- BitDAO 트레저리 거버넌스 변동 가능성
+- Ethereum 메인넷 대비 L2 시장 유동성 작음
+- 신규 프로토콜 — Lido·Rocket Pool 대비 검증 기간 짧음
+
+## 3. Swell (swETH·rswETH) — 리퀴드 리스테이킹 강점
+
+Swell은 LST와 LRT를 둘 다 제공하는 프로토콜이고 LRT인 rswETH가 시장 점유율 12.3%로 신규 LRT 중 1위권이에요. Swell의 LST는 swETH, LRT는 rswETH로 구분돼요.
+
+### Swell 구조
+
+swETH는 일반 LST 토큰이고 rswETH는 swETH를 EigenLayer에 한 번 더 예치해서 만든 LRT 토큰이에요. rswETH는 ETH 스테이킹 보상 + EigenLayer AVS 보상 + Swell 자체 포인트 + 에어드랍 인센티브를 다층으로 받을 수 있어요.
+
+**Swell 핵심 데이터**
+
+- LST TVL: $1.5억+ (swETH 기준)
+- LRT TVL 점유율: 12.3% (rswETH, 신규 LRT 중 1위권)
+- 거버넌스 토큰: SWELL (2024년 토큰 출시)
+- 자체 L2: Swell Chain 출시 (2024년)
+- 5월 시장 환경: LRT 카테고리 선두권
+
+**Swell 차별 포인트**
+
+- LST + LRT 통합 제공 → 사용자 선택권
+- EigenLayer 깊게 통합 — LRT 카테고리 핵심 플레이어
+- Swell Chain L2 출시 — 자체 인프라 확장
+- 에어드랍·포인트 시스템 — 사용자 인센티브 적극
+
+**Swell 위험 요소**
+
+- LRT 슬래싱 위험 — EigenLayer AVS 슬래싱 시 직격
+- 중첩 디페그 위험 — swETH 디페그 + rswETH 디페그 동시 가능
+- 신규 프로토콜 — 검증 기간 짧음
+- SWELL 토큰 가격 변동성 큼
+
+## 3종 비교 — 한눈 표
+
+| 항목 | Frax sfrxETH | Mantle mETH | Swell swETH·rswETH |
+|---|---|---|---|
+| 출시 | 2022 | 2023 | 2023 |
+| TVL 위상 | LST 3순위권 | LST·LRT 상위권 (LRT 11%) | LRT 1위권 (12.3%) |
+| 거버넌스 토큰 | FXS | MNT | SWELL |
+| 차별 강점 | 스테이블코인 인프라 통합 | Mantle L2 통합 | LST+LRT 통합·EigenLayer 중심 |
+| 주요 위험 | FRAX 알고 스테이블 의존 | L2 사용량 의존 | LRT 중첩 슬래싱 |
+| Curve 유동성 | 매우 강함 | 중간 | 중간 |
+| 한국 직접 진입 | DeFi 지갑 필요 | DeFi 지갑 필요 | DeFi 지갑 필요 |
+
+세 프로토콜 모두 Lido(stETH)·Rocket Pool(rETH) 다음 단계의 신규 LST이고 각각의 차별 각도가 명확해요. Frax는 스테이블코인 인프라, Mantle은 L2 통합, Swell은 LRT 중심이 차별점이에요.
+
+## 한국 사용자 진입 — DeFi 지갑 필수
+
+세 LST 프로토콜 모두 한국 거래소(업비트·빗썸·코빗)에서 직접 거래되지 않아요. Frax·Mantle·Swell 토큰 자체는 한국 거래소 일부에 상장돼 있지만 LST 토큰(sfrxETH·mETH·swETH·rswETH)은 메타마스크·Rabby·Trust Wallet 같은 DeFi 지갑으로 직접 접근해야 해요.
+
+**한국 사용자 진입 경로**
+
+1. 한국 거래소(업비트·빗썸)에서 ETH 매수
+2. ETH를 메타마스크 등 DeFi 지갑으로 출금 (트래블룰 확인 필요)
+3. 각 프로토콜 공식 웹사이트 접속 (frax.com·mantle.xyz·swellnetwork.io)
+4. DeFi 지갑 연결 후 ETH → LST 예치
+5. LST 토큰(sfrxETH·mETH·swETH) 수령
+
+이 과정에서 가스비(이더리움 메인넷 평균 5~30 GWEI 기준 $1~10), 거래소→지갑 송금 트래블룰, 컨트랙트 승인 사기 위험 등의 함정이 있어요.
+
+## 한국 사용자 5가지 함정
+
+### 함정 1 — 가짜 웹사이트·피싱
+
+Frax·Mantle·Swell 모두 가짜 웹사이트가 다수 운영돼요. 구글 검색 광고로 노출되는 경우도 있어요. 항상 공식 트위터·공식 디스코드에서 링크를 확인하고 즐겨찾기로만 접속하는 게 안전해요.
+
+### 함정 2 — 슬래싱·디페그 위험
+
+LST는 검증자 슬래싱 시 일부 손실 가능성, 시장 충격 시 디페그(ETH:LST 1:1 깨짐) 위험이 있어요. LRT는 추가로 EigenLayer AVS 슬래싱 위험 중첩돼요. 2024년 이후 큰 디페그 사고는 없었지만 가능성은 존재해요.
+
+### 함정 3 — 스마트 컨트랙트 해킹
+
+LST 컨트랙트가 해킹되면 예치 자산 전체 손실 가능성이 있어요. 세 프로토콜 모두 감사를 받았지만 100% 안전 보장이 아니에요. 자산을 한 프로토콜에 100% 몰빵하지 않고 분산하는 게 안전해요.
+
+### 함정 4 — 세금 처리 복잡
+
+한국 가상자산 과세 시작 시 LST 보상은 이자소득 또는 양도소득으로 분류 가능성이 있고 복잡한 구조라 세무 처리가 어려워요. 거래·예치·수령·인출 모든 거래 내역을 보관하고 세무 전문가 자문이 필요할 수 있어요.
+
+### 함정 5 — APY 변동 큼
+
+LST APY는 ETH 스테이킹 시장 환경에 따라 변동돼요. 2024년 ETH 스테이킹 APY가 평균 3~4% 수준이지만 시장 상황·검증자 분산도에 따라 1~5% 범위로 움직였어요. 광고된 "고정 5% APY"는 실제 변동 가능성을 무시한 표현이라 주의해야 해요.
+
+## 5월 13일 기준 LST 시장 환경
+
+2026년 5월 13일 기준 ETH 가격은 BTC와 함께 조정 진행 중이고 ETH 스테이킹 APY는 평균 3% 수준에서 안정적이에요. LRT 시장은 EigenLayer 토큰 출시 이후 인센티브 효과가 줄어들면서 일부 위축됐지만 신규 AVS(Actively Validated Service) 출시로 다시 활성화되는 흐름이에요.
+
+**5월 13일 LST 환경 요약**
+
+- ETH 스테이킹 APY: 평균 3% 수준
+- LRT 추가 보상: 평균 1~2% (EigenLayer AVS 보상)
+- 시장 점유: Lido(stETH) 70%+ / Rocket Pool 5%+ / 기타 25% 분할
+- Frax·Mantle·Swell 합계 점유: 약 5~7% 추정
+- 5월 트렌드: LRT 카테고리 회복, 신규 AVS 출시
+
+이 환경에서 신규 LST 예치는 ETH 스테이킹 기본 보상 + 프로토콜별 추가 인센티브를 기대할 수 있지만 슬래싱·디페그·해킹 위험을 본인이 감수해야 한다는 점을 이해해야 해요.
+
+## 자주 묻는 질문
+
+### Q: Lido 대신 Frax·Mantle·Swell을 선택할 이유가 있나요?
+
+A: 세 프로토콜은 각각의 차별 각도가 있어요. Frax는 스테이블코인 인프라·Curve 유동성 강점, Mantle은 L2 통합·BitDAO 트레저리 안정성, Swell은 LRT 중심·EigenLayer 통합이에요. Lido가 가장 검증된 프로토콜이지만 시장 점유 70%+로 중앙 집중 우려가 있어요. 분산 측면에서 신규 LST 활용은 의미가 있지만 슬래싱·디페그·해킹 위험은 더 클 수 있어요.
+
+### Q: LST 보상은 어떻게 받나요?
+
+A: 프로토콜마다 달라요. Lido stETH는 rebase 방식(잔고가 자동 증가), Rocket Pool rETH·Frax sfrxETH·Mantle mETH·Swell swETH는 reward-bearing 방식(토큰 가치가 시간 누적 증가)이에요. reward-bearing 방식은 잔고 변화 없이 ETH 환산 가치가 늘어나서 한국 세무 처리 시 좀 더 명확한 측면이 있지만 변동성도 같이 누적돼요.
+
+### Q: LRT가 LST보다 수익이 더 높은데 위험은요?
+
+A: LRT 추가 보상(EigenLayer AVS 보상·포인트·에어드랍)이 매력적이지만 위험도 비례적으로 더 커요. LST 슬래싱 + EigenLayer AVS 슬래싱이 중첩될 수 있고 합성 토큰(rswETH·ezETH·weETH 등)의 디페그가 더 크게 발생할 수 있어요. EigenLayer 자체도 신규 프로토콜이라 검증 기간이 짧아요. 추가 수익 1~2% 차이로 위험을 감수할 가치가 있는지는 본인 판단이에요.
+
+### Q: 한국 거래소에서 직접 LST 거래 가능한가요?
+
+A: 5월 13일 기준 한국 메이저 거래소에서 LST 토큰(sfrxETH·mETH·swETH 등) 직접 상장은 거의 없어요. Frax 거버넌스 토큰(FXS), Mantle(MNT), Swell(SWELL) 같은 거버넌스 토큰은 일부 거래소에 상장돼 있지만 이건 LST 자체와 다른 자산이에요. LST 직접 사용은 DeFi 지갑 + 메인넷 트랜잭션이 필요해요.
+
+### Q: LST 예치 시 가스비는 얼마나 드나요?
+
+A: Ethereum 메인넷 가스비에 따라 달라요. 평균 5~30 GWEI 기준 LST 예치 한 번에 $1~10 정도 소요돼요. 가스비가 비싼 시점($30 이상)에는 예치 자체가 비효율적일 수 있어요. Mantle 같은 L2 통합 LST는 L2에서 처리 시 가스비가 훨씬 작은 이점이 있어요.
+
+## 참고 자료
+
+- DefiLlama LST Rankings — defillama.com/lst
+- DefiLlama Liquid Staking TVL — defillama.com/protocols/liquid-staking
+- Frax Finance — frax.com (공식)
+- Mantle — mantle.xyz (공식)
+- Swell Network — swellnetwork.io (공식)
+- EigenLayer — eigenlayer.xyz (LRT 인프라)
+- arxiv.org/html/2404.00644 — SoK: Liquid Staking Tokens 학술 논문
+
+## 면책
+
+본 콘텐츠는 정보 제공 목적이며 Frax·Mantle·Swell 등 특정 LST 프로토콜 예치·LST 토큰 매매 권유 글이 아니에요. TVL·APY·시장 점유율은 작성 시점 기준이고 시시각각 변동되니 예치 전 직접 확인하세요. LST·LRT는 스마트 컨트랙트 해킹·슬래싱·디페그 등 다층 위험이 있는 자산이에요. 신규 LST는 Lido·Rocket Pool 대비 검증 기간이 짧아 위험이 더 클 수 있어요. 한국 가상자산 과세 시작 시 세무 처리 복잡도 증가 가능성 있어요. 투자 결정과 손익은 본인 책임이에요.
+
+[DeFi·NFT 카테고리](/category/defi) | [Lido vs Rocket Pool 비교](/blog/ethereum-staking-lido-vs-rocketpool-guide) | [Aave 스테이킹 분석](/blog/aave-staking-umbrella-safety-module-2026)
