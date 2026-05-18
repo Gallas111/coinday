@@ -112,6 +112,26 @@ export default function RootLayout({
             __html: `(function(){try{var t=localStorage.getItem('theme');document.documentElement.setAttribute('data-theme',t||'light');}catch(e){document.documentElement.setAttribute('data-theme','light');}})();`,
           }}
         />
+        {/* Pretendard 폰트 비동기 (render-blocking 회피) */}
+        <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+        <link
+          rel="preload"
+          as="style"
+          href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css"
+        />
+        <link
+          rel="stylesheet"
+          media="print"
+          href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css"
+        />
+        <noscript>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css" />
+        </noscript>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var links=document.querySelectorAll('link[rel="stylesheet"][media="print"]');links.forEach(function(l){if(l.sheet){l.media='all';}else{l.addEventListener('load',function(){l.media='all';});}});})();`,
+          }}
+        />
       </head>
       <body
         className={`${geistSans.variable} antialiased min-h-screen flex flex-col`}
