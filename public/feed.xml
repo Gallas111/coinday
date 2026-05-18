@@ -5,8 +5,88 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 16 May 2026 03:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 03:07:47 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[이더리움 $2,265 정체 — Jane Street $82M 추가 vs JPMorgan 약세론 정리]]></title>
+      <link>https://www.coindaynow.com/blog/ethereum-2265-jane-street-jpmorgan-laggard-analysis</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/ethereum-2265-jane-street-jpmorgan-laggard-analysis</guid>
+      <description><![CDATA[5월 15일 기준 이더리움은 $2,265 정체 중이지만 Jane Street가 BlackRock 이더리움 트러스트 노출을 $82M 추가하며 비트코인은 축소했어요. JPMorgan은 이더리움 실수요 부재로 BTC 대비 약세 지속 전망. 매매 권유 글이 아니에요.]]></description>
+      <category>알트코인</category>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[5월 20일 FOMC 의사록 — 비트코인 매크로 영향 프리뷰]]></title>
+      <link>https://www.coindaynow.com/blog/fomc-may-2026-minutes-bitcoin-macro-impact-preview</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/fomc-may-2026-minutes-bitcoin-macro-impact-preview</guid>
+      <description><![CDATA[5월 20일 공개되는 FOMC 4월 회의 의사록(파월 의장 마지막 주재)의 비트코인 영향 시나리오를 정리했어요. CPI 3.8%·6월 인하 확률 41%·미-이란 충돌 인플레 가속 등 핵심 변수를 분석했어요. 매매 권유 글이 아니에요.]]></description>
+      <category>시세·전망</category>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[김치 프리미엄 트레이딩 — 1.98% 변동성 패턴과 차익거래 가이드]]></title>
+      <link>https://www.coindaynow.com/blog/kimchi-premium-trading-pattern-198-volatility-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/kimchi-premium-trading-pattern-198-volatility-guide</guid>
+      <description><![CDATA[5월 7일 1.98% 정점·5월 9일 0.77% 후퇴까지 5월 김치 프리미엄 변동 패턴을 정리했어요. 김프 차익거래 구조·자본 규제·세금·실전 한계를 객관적으로 분석한 가이드예요. 매매 권유 글이 아니에요.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MEV 서처와 프라이빗 멤풀 — Glamsterdam ePBS 영향 정리]]></title>
+      <link>https://www.coindaynow.com/blog/mev-searcher-private-mempool-glamsterdam-epbs-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/mev-searcher-private-mempool-glamsterdam-epbs-guide</guid>
+      <description><![CDATA[MEV(Maximal Extractable Value)의 작동 원리·서처 봇·프라이빗 멤풀 방어책을 정리했어요. Q3 2026 Glamsterdam 업그레이드의 enshrined PBS(ePBS) 도입과 사용자 영향을 다뤘어요. 매매 권유 글이 아니에요.]]></description>
+      <category>DeFi·NFT</category>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[USDT Tron 블랙리스트 $344M 동결 — 거래소·사용자 영향 정리]]></title>
+      <link>https://www.coindaynow.com/blog/usdt-tron-blacklist-344m-freeze-exchange-impact</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/usdt-tron-blacklist-344m-freeze-exchange-impact</guid>
+      <description><![CDATA[미국 정부가 4월 24일 Tether가 Tron에서 동결한 $344M USDT가 이란 제재 우회 자금이라고 5월 15일 공식 확인했어요. T3 금융범죄 유닛 누적 동결 $450M+, 사용자 입장 영향과 안전 보관 가이드예요. 매매 권유 글이 아니에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Berachain · Monad · Sonic — 신규 L1 TVL 붕괴 분석 정리]]></title>
+      <link>https://www.coindaynow.com/blog/berachain-monad-sonic-new-l1-tvl-collapse-analysis</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/berachain-monad-sonic-new-l1-tvl-collapse-analysis</guid>
+      <description><![CDATA[2026년 출시된 신규 Layer 1 체인 3사의 TVL이 출시 직후 정점에서 급락한 흐름을 정리했어요. Berachain $3.3B→$71M(-97%), Monad $350M+ 유지, Sonic $1.1B→$39M(-96.5%). 매매 권유 글이 아니에요.]]></description>
+      <category>알트코인</category>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[비트코인 $78K 지지선 — 5월 16일 ETF 6주 연속 유입 깨짐 정리]]></title>
+      <link>https://www.coindaynow.com/blog/bitcoin-78k-support-etf-outflow-may-2026-analysis</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-78k-support-etf-outflow-may-2026-analysis</guid>
+      <description><![CDATA[5월 16일 미국 현물 비트코인 ETF가 6주 연속 유입 흐름을 깨고 약 14,000 BTC 유출을 기록했어요. 인플레 3.8%·하버드 IBIT 43% 축소·고래 익절 압력으로 BTC는 $78,031까지 후퇴했어요. 매매 권유 글이 아니에요.]]></description>
+      <category>시세·전망</category>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[BlackRock BUIDL · BSTBL · BRSRV — RWA 토큰화 $34.5B 시장 정리]]></title>
+      <link>https://www.coindaynow.com/blog/blackrock-buidl-bstbl-brsrv-rwa-tokenization-345b</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/blackrock-buidl-bstbl-brsrv-rwa-tokenization-345b</guid>
+      <description><![CDATA[5월 8일 BlackRock이 BSTBL($7B)·BRSRV(스테이블 리저브) 두 토큰화 펀드를 SEC에 신청했어요. BUIDL 단일 펀드 $2.3B에 이어 토큰화 자산관리 라인업 본격 확장이에요. RWA 시장은 $34.5B(+100% YoY) 도달. 매매 권유 글이 아니에요.]]></description>
+      <category>DeFi·NFT</category>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[bitFlyer · GMO코인 · Coincheck — 일본 3대 거래소 2026 비교]]></title>
+      <link>https://www.coindaynow.com/blog/japan-bitflyer-gmo-coincheck-exchange-comparison-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/japan-bitflyer-gmo-coincheck-exchange-comparison-2026</guid>
+      <description><![CDATA[일본 FSA 라이선스 거래소 3사의 시장 점유율·수수료·상장 코인·스테이킹 정책을 정리했어요. bitFlyer 38% 점유, GMO 메이커 마이너스, Coincheck NFT 마켓 1위. 매매 권유 글이 아니에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VWAP 비트코인 인트라데이 트레이딩 — 거래량 가중 평균가 활용 가이드]]></title>
+      <link>https://www.coindaynow.com/blog/vwap-bitcoin-intraday-trading-strategy-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/vwap-bitcoin-intraday-trading-strategy-guide</guid>
+      <description><![CDATA[VWAP(거래량 가중 평균가) 지표를 비트코인 단기 트레이딩에 활용하는 방법을 정리했어요. 1~15분봉 추세 추종·풀백·앵커드 VWAP·손절 설정까지 실전 가이드예요. 매매 권유 글이 아니에요.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[하나은행 두나무 6700억 지분 인수 — 원화 스테이블코인 추진 정리]]></title>
       <link>https://www.coindaynow.com/blog/hana-bank-dunamu-upbit-670-million-stake-stablecoin</link>
@@ -326,86 +406,6 @@
       <description><![CDATA[XRP의 2026년 5월 시세 흐름을 SEC 소송 종결 1년차 데이터·ETF 승인 가능성·결제 네트워크 사용량 측면에서 정리했어요. 5월 가격 범위 시나리오와 변동성 변수까지 객관적으로 분석합니다. 매매 권유가 아닌 정보 제공 글이며 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
       <category>시세·전망</category>
       <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Arbitrum vs Optimism vs Base — 이더리움 L2 3강 비교 (2026.5월)]]></title>
-      <link>https://www.coindaynow.com/blog/arbitrum-optimism-base-l2-comparison-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/arbitrum-optimism-base-l2-comparison-2026</guid>
-      <description><![CDATA[Arbitrum·Optimism·Base 세 이더리움 L2의 TVL·수수료·거래량·토큰 구조를 5월 데이터 기준으로 비교했어요. Base의 추격, Arbitrum의 절대 TVL, Optimism의 슈퍼체인 비전을 객관적으로 정리합니다. 매매 권유가 아닌 정보 제공 글이며 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
-      <category>알트코인</category>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[비트코인 DCA 분할매수 전략 — 12년 백테스트 +6,712% 데이터 정리 (2026.5월)]]></title>
-      <link>https://www.coindaynow.com/blog/bitcoin-dca-strategy-backtest-guide-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-dca-strategy-backtest-guide-2026</guid>
-      <description><![CDATA[비트코인 DCA(분할매수) 전략의 5년·10년·12년 백테스트 데이터를 정리했어요. 매주·매월·공포지수 기반 DCA의 차이, 수수료·세금까지 고려한 실전 운영법까지 객관적으로 분석합니다. 매매 권유가 아닌 정보 제공 글이며 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
-      <category>트레이딩전략</category>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[이더리움 ETF 자금 흐름 분석 — 5월 첫 주 6천만 달러 순유입 (2026.5월)]]></title>
-      <link>https://www.coindaynow.com/blog/ethereum-etf-inflow-may-2026-analysis</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/ethereum-etf-inflow-may-2026-analysis</guid>
-      <description><![CDATA[이더리움 현물 ETF 자금 흐름을 5월 첫 주 데이터로 정리했어요. 블랙록 ETHA가 견인한 순유입 흐름, 비트코인 ETF와의 격차, 거시 변수까지 객관적으로 분석합니다. 매매 권유가 아닌 정보 제공 글이며 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[업비트 vs 빗썸 수수료·스프레드 완전 비교 (2026.5월)]]></title>
-      <link>https://www.coindaynow.com/blog/upbit-vs-bithumb-fee-spread-comparison-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/upbit-vs-bithumb-fee-spread-comparison-2026</guid>
-      <description><![CDATA[업비트와 빗썸의 수수료·스프레드·유동성·보안을 5월 데이터 기준으로 정리했어요. 표면 수수료만 보면 빗썸이 낮지만 실거래 비용은 유동성에 따라 달라져요. 매매 권유가 아닌 정보 제공 글이며 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
-      <category>거래소</category>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[USDT vs USDC 스테이블코인 완전 비교 — 시총·투명성·MiCA 대응 (2026.5월)]]></title>
-      <link>https://www.coindaynow.com/blog/usdt-vs-usdc-stablecoin-comparison-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/usdt-vs-usdc-stablecoin-comparison-2026</guid>
-      <description><![CDATA[USDT(테더)와 USDC(서클)의 시가총액·준비금 투명성·MiCA 규제 대응을 5월 데이터 기준으로 비교했어요. 어느 쪽이 더 안전한지, 어떤 상황에 어떤 스테이블코인이 유리한지를 객관적으로 정리합니다. 매매 권유가 아닌 정보 제공 글이며 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
-      <category>DeFi·NFT</category>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[비트코인 거래소 잔고 7년 만에 최저 — 고래 매집 신호 정리 (2026.5월)]]></title>
-      <link>https://www.coindaynow.com/blog/bitcoin-exchange-balance-7yr-low-2026-may</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-exchange-balance-7yr-low-2026-may</guid>
-      <description><![CDATA[거래소에 묶인 비트코인 잔고가 2019년 이후 최저 수준으로 줄었어요. 고래 매집 흐름과 과거 사례를 비교해 5월 시장에 줄 수 있는 영향을 정리했어요. 매매 권유가 아닌 정보 제공 글이며 변동성과 원금 손실 위험은 본인이 부담합니다.]]></description>
-      <category>코인뉴스</category>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[비트텐서 TAO, AI 알트코인 주도주가 된 이유 (2026 상반기 +47%)]]></title>
-      <link>https://www.coindaynow.com/blog/bittensor-tao-ai-altcoin-leader-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/bittensor-tao-ai-altcoin-leader-2026</guid>
-      <description><![CDATA[비트텐서 TAO가 2026년 들어 +47% 상승하며 AI 알트코인 섹터를 주도하고 있어요. 분산 머신러닝 네트워크 구조, 서브넷 보상, 토크노믹스를 정리했어요. 매매 권유가 아닌 정보 제공 글입니다.]]></description>
-      <category>알트코인</category>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[공포·탐욕 지수(Fear & Greed Index) 활용법 — 39 Fear 구간이 의미하는 것]]></title>
-      <link>https://www.coindaynow.com/blog/fear-greed-index-bitcoin-trading-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/fear-greed-index-bitcoin-trading-guide</guid>
-      <description><![CDATA[5월 첫 주 공포·탐욕 지수가 39 Fear 구간에 머물러 있어요. 5개 구성 요소, 0~100 구간 해석법, 역사적 패턴, 활용 전략과 한계를 정리했어요. 매매 권유가 아닌 정보 제공 글입니다.]]></description>
-      <category>트레이딩전략</category>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[하이퍼리퀴드 HYPE 토크노믹스와 영구선물 DEX 시장 정리 (2026.5월)]]></title>
-      <link>https://www.coindaynow.com/blog/hyperliquid-hype-perpetual-dex-analysis-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/hyperliquid-hype-perpetual-dex-analysis-2026</guid>
-      <description><![CDATA[하이퍼리퀴드 HYPE가 2026년 +40% 상승하며 영구선물 DEX 시장을 주도하고 있어요. L1 자체 체인 구조, 토크노믹스, 경쟁 구도와 리스크를 정리했어요. 매매 권유가 아닌 정보 제공 글입니다.]]></description>
-      <category>DeFi·NFT</category>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[솔라나 SOL 5월 시세 흐름 — Alpenglow 업그레이드와 TVL 사상 최고 (2026)]]></title>
-      <link>https://www.coindaynow.com/blog/solana-may-2026-forecast-alpenglow-upgrade</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/solana-may-2026-forecast-alpenglow-upgrade</guid>
-      <description><![CDATA[솔라나가 Alpenglow 업그레이드 이후 파이널리티가 150ms로 줄고 TVL이 8천만 SOL 사상 최고를 찍었어요. 5월 SOL 시세 흐름과 분석가 전망을 객관 데이터로 정리했어요. 매매 권유가 아닌 정보 제공 글입니다.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
