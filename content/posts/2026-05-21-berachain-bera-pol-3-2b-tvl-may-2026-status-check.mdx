@@ -1,0 +1,196 @@
+---
+title: Berachain BERA POL 32억달러 TVL 5월 2026 — 현금흐름 사업 전환 점검
+slug: berachain-bera-pol-3-2b-tvl-may-2026-status-check
+description: Berachain이 5월 2026년 기준 Proof-of-Liquidity(POL) 메커니즘으로 약 32억 달러 TVL을 유지 중이에요. BGT·BERA·HONEY 3토큰 구조, 5월 6일 +891만 달러 유입, Foundation 현금흐름 사업 전환 전략, EigenLayer·Lido 대비 차별점까지 정리한 정보 글이에요. 매매 권유 글이 아니에요.
+category: 알트코인
+tags:
+  - Berachain
+  - BERA 토큰
+  - Proof of Liquidity
+  - POL 메커니즘
+  - EVM L1
+date: '2026-05-21'
+dateModified: '2026-05-21'
+icon: "🐻"
+relatedService:
+  label: 알트코인 카테고리 보기
+  href: /category/altcoin
+keywords:
+  primary: Berachain BERA POL 분석
+  secondary:
+    - Proof of Liquidity 메커니즘
+    - Berachain TVL 32억
+    - BGT BERA HONEY 토큰
+  longTail:
+    - Berachain 5월 2026 상태
+    - Proof-of-Liquidity 구조 정리
+    - Berachain Foundation 현금흐름 전환
+published: true
+---
+
+Berachain은 EVM 호환 모듈러 L1 블록체인으로 Proof-of-Liquidity(POL)이라는 독특한 합의 메커니즘을 사용해요. 2025년 2월 메인넷 런칭 이후 약 15개월간 TVL이 약 32억 달러 수준에서 안정화된 상태로 5월 6일에는 +891만 달러 순유입이 기록됐어요. BERA 토큰 가격은 5월 21일 기준 약 $1.85 부근에서 거래되고 있고 시가총액 약 12억 달러로 CoinGecko 약 55위에 위치해요. 이번 글은 POL 메커니즘 작동 원리, BGT·BERA·HONEY 3토큰 구조, Foundation의 현금흐름 사업 전환 전략, 다른 LST 프로토콜과의 차별점을 정리한 정보 글이에요.
+
+이 글은 2026년 5월 21일 기준 Berachain 공식 문서·DefiLlama·BlockEden 리서치·MEXC 가이드 데이터 기반 정보 글이에요. 매매 권유 글이 아니고 BERA가 변동성이 큰 알트코인이라 단기 가격 방향을 단정하지 않아요. 4월 19일 발행한 [신규 L1 베라체인·모나드·소닉 TVL 비교](/blog/berachain-monad-sonic-new-l1-tvl-collapse-analysis)와 함께 보면 신규 L1 시장 구조를 입체적으로 이해할 수 있어요.
+
+## Berachain Proof-of-Liquidity 핵심 개념
+
+POL은 기존 Proof-of-Stake(PoS)의 한계를 극복하기 위해 설계된 합의 메커니즘이에요. 검증자가 단순히 토큰을 스테이킹하는 것이 아니라 DeFi 프로토콜에 유동성을 공급해야 검증 권한을 얻는 구조예요.
+
+**POL vs PoS 핵심 차이**
+
+| 항목 | 일반 PoS | Berachain POL |
+|---|---|---|
+| 검증자 자격 | 토큰 스테이킹 | DeFi 유동성 공급 |
+| 보상 토큰 | 자체 토큰 | BGT (Governance) |
+| 유동성 효과 | 토큰 락업 | DeFi TVL 증가 |
+| 검증자-DeFi 관계 | 분리 | 통합 |
+| 자본 효율성 | 보통 | 높음 (이중 활용) |
+
+POL의 핵심 아이디어는 "검증자가 체인 보안에 기여하면서 동시에 DeFi 생태계 유동성도 공급한다"는 이중 활용 구조예요. EigenLayer의 리스테이킹과 유사한 자본 효율성 아이디어지만 메커니즘은 완전히 달라요. EigenLayer는 ETH 스테이킹 위에 추가 리스테이킹 레이어를 쌓는 반면 POL은 검증자 선정 자체를 유동성 공급 활동과 연결해요.
+
+## BGT·BERA·HONEY 3토큰 구조
+
+Berachain은 3개 토큰이 각각 다른 역할을 담당하는 멀티 토큰 구조예요. 다른 L1과 가장 차별화되는 설계 요소예요.
+
+**Berachain 3토큰 역할 분담**
+
+| 토큰 | 역할 | 특징 | 거래 가능 |
+|---|---|---|---|
+| BERA | 가스 토큰 | 트랜잭션 수수료 지불 | O (CEX·DEX 상장) |
+| BGT | 거버넌스 토큰 | 검증자 위임·보상 분배 | X (Soulbound) |
+| HONEY | 스테이블코인 | USDC 1:1 백킹 | O (DEX 위주) |
+
+BGT(Bera Governance Token)는 SBT(Soulbound Token) 형태로 거래가 불가능해요. 사용자가 DeFi에 유동성 공급 시 BGT를 받고 BGT 보유량에 따라 검증자에게 BGT 이미션을 위임할 수 있어요. BGT를 BERA로 1:1 소각 전환은 가능하지만 역방향(BERA → BGT)은 불가능해요. 이 일방향 구조가 BGT 가치를 보호하는 핵심 설계예요.
+
+HONEY는 USDC를 백킹으로 발행되는 native 스테이블코인이에요. 다른 L1에서 USDC·USDT를 브리지로 가져오는 것과 달리 Berachain 내부에서 직접 발행돼 슬리피지·브리지 리스크가 적어요. 단 USDC 의존도가 높아 Circle 정책 리스크는 여전히 존재해요.
+
+![곰 모양 마스코트로 Berachain POL 메커니즘을 표현한 이미지](/images/posts/berachain-bera-pol-3-2b-tvl-may-2026-status-check-body-1.png)
+
+## TVL 32억 달러 흐름과 5월 6일 유입
+
+Berachain TVL은 2025년 2월 메인넷 런칭 직후 약 35억 달러로 최고치를 찍은 후 등락을 거듭하며 5월 2026 기준 약 32억 달러 수준에서 안정화됐어요.
+
+**Berachain TVL 흐름 (2025-02 ~ 2026-05)**
+
+| 시점 | TVL | 비고 |
+|---|---|---|
+| 2025-02-06 | 35억 달러 | 메인넷 런칭 직후 피크 |
+| 2025-06 | 18억 달러 | -49% 하락, 초기 인센티브 종료 |
+| 2025-12 | 25억 달러 | 신규 dApp 합류 + Stablecoin 유입 |
+| 2026-03 | 30억 달러 | 봄 알트 시즌 일부 유입 |
+| 2026-05-06 | 32억 달러 + 891만 달러 유입 | 신규 자본 관심 회복 |
+| 2026-05-21 | 약 32억 달러 | 안정화 흐름 |
+
+5월 6일 +891만 달러 유입은 신규 자본 관심이 일부 회복됐다는 신호로 해석돼요. 단 32억 달러 TVL은 Lido의 102억 달러·EigenLayer의 152억 달러와 비교하면 약 1/4~1/5 규모이고 Aave의 200억 달러+와 비교하면 더 작아요. POL 메커니즘이 다른 L1보다 자본 효율성이 높다는 주장이 있지만 절대 TVL 규모에서는 후발주자 위치예요.
+
+## Foundation 현금흐름 사업 전환 전략
+
+2026년 들어 Berachain Foundation은 인센티브 의존 모델에서 현금흐름 사업 모델로 전환하는 전략을 발표했어요. 초기 BGT 이미션·에어드랍으로 모은 사용자를 지속 가능한 수익 구조로 전환하는 단계예요.
+
+**현금흐름 사업 전환 4가지 축**
+
+1. **Reward Vault 수수료**: dApp이 검증자에게 BGT 보상을 받기 위해 지불하는 수수료 (현재 약 연 1,200만 달러 추정)
+2. **HONEY 발행·소각 수수료**: HONEY mint·redeem 시 0.05% 수수료
+3. **체인 가스 수수료**: BERA 가스비의 일부 Foundation 수수료
+4. **신규 dApp 인큐베이션**: Berachain 위에 신규 프로젝트 런칭 지원 + 토큰 할당
+
+이 4가지 수익원이 안정화될 경우 Foundation은 외부 자본 의존 없이 지속 가능한 운영이 가능해져요. 단 현금흐름 사업 전환은 초기 사용자에게 인센티브가 줄어든다는 의미라 단기 TVL 하락 가능성도 동반해요. 5월 6일 +891만 달러 유입이 이 전환 전략의 첫 긍정 신호로 해석되지만 1주 데이터로 추세를 단정하기는 어려워요.
+
+## EigenLayer·Lido 대비 POL 차별점
+
+리퀴드 스테이킹·리스테이킹 분야의 주요 프로토콜과 Berachain POL을 비교하면 설계 철학의 차이가 명확해져요.
+
+**POL vs LST·LRT 비교**
+
+| 항목 | Lido (LST) | EigenLayer (LRT) | Berachain POL |
+|---|---|---|---|
+| 기본 자산 | ETH | ETH (Lido 등 LST) | BERA + DeFi LP |
+| 보안 모델 | Ethereum PoS 위임 | Ethereum 보안 빌림 | 자체 L1 보안 |
+| 보상 형태 | stETH 리베이스 | EIGEN + AVS 토큰 | BGT (소울바운드) |
+| TVL (2026-05) | 102억 달러 | 152억 달러 | 32억 달러 |
+| 자본 효율 | 중간 | 높음 | 높음 |
+| 진입 장벽 | 낮음 | 중간 | 높음 (POL 학습 필요) |
+
+POL은 자체 L1 보안 + DeFi 유동성 통합이라는 독특한 위치를 잡고 있어요. Lido·EigenLayer가 Ethereum 위에 쌓는 레이어인 반면 Berachain은 독립 L1이라 보안 모델이 완전히 다른 트랙이에요. 진입 장벽은 높지만 자본 효율성에서 차별화되는 구조라 장기적으로는 일정 시장 점유를 확보할 가능성이 있어요. 단 다른 신규 L1(Monad·Sonic·MegaETH)과의 경쟁은 변수예요.
+
+![Berachain DeFi 생태계 유동성 흐름 표현 이미지](/images/posts/berachain-bera-pol-3-2b-tvl-may-2026-status-check-body-2.png)
+
+## Berachain 생태계 주요 dApp 5종
+
+Berachain 위에서 작동하는 주요 dApp 5개를 정리하면 생태계 활성도를 입체적으로 볼 수 있어요.
+
+**Berachain 주요 dApp 5종**
+
+| dApp | 카테고리 | TVL | 특징 |
+|---|---|---|---|
+| Infrared Finance | LST (BGT 위임) | 약 6억 달러 | BGT 위임 자동화, iBGT 토큰 발행 |
+| Kodiak | DEX (AMM + 집중 유동성) | 약 4억 달러 | Berachain 메인 DEX, 거래량 1위 |
+| Beraborrow | 대출·차입 (CDP) | 약 3억 달러 | HONEY 담보 대출 프로토콜 |
+| Honeyswap | DEX (스왑·풀) | 약 2.5억 달러 | HONEY 스테이블 페어 특화 |
+| BeraStone | 리퀴드 스테이킹 | 약 1.8억 달러 | BERA 스테이킹 + 보상 자동화 |
+
+이 5개 dApp이 Berachain 전체 TVL 32억 달러의 약 60%를 차지해요. 나머지 40%는 신규·소규모 프로토콜에 분산된 흐름이에요. Infrared Finance는 BGT 위임 자동화로 가장 빠르게 성장한 dApp이고 Kodiak은 거래량 기준으로 1위 DEX 자리를 굳혔어요. 단 dApp별 TVL은 시장 변동에 따라 매주 ±10% 변동하는 지표예요.
+
+## BERA 토큰 가격·시가총액 흐름
+
+BERA 토큰은 5월 21일 기준 약 $1.85 부근에서 거래 중이에요. 2025년 2월 런칭 초기 $14 부근에서 -87% 하락한 후 횡보 흐름이에요.
+
+**BERA 가격 흐름 (2025-02 ~ 2026-05)**
+
+| 시점 | BERA 가격 | 시가총액 |
+|---|---|---|
+| 2025-02-06 (런칭) | $14.50 | 30억 달러 |
+| 2025-06 | $5.20 | 12억 달러 |
+| 2025-12 | $2.80 | 7억 달러 |
+| 2026-03 | $2.10 | 5.5억 달러 |
+| 2026-05-21 | $1.85 | 약 12억 달러 (유통량 증가) |
+
+유통량은 메인넷 런칭 시 2.1억 BERA에서 5월 2026 약 6.5억 BERA로 +210% 증가했어요. 가격 하락 + 유통량 증가가 동시에 진행되는 구조라 단순 가격으로 펀더멘털을 판단하기 어려워요. 시가총액 기준으로는 30억 → 12억 달러로 -60% 하락이라 가격보다 시가총액이 더 정확한 펀더멘털 지표예요.
+
+## 자주 묻는 질문
+
+### Q: Berachain POL이 다른 PoS L1과 가장 다른 점이 뭐예요?
+
+A: 검증자 자격이에요. 일반 PoS는 토큰 스테이킹만으로 검증자가 되지만 POL은 DeFi 프로토콜에 유동성을 공급해야 검증 권한을 얻어요. 이 구조 덕에 체인 보안과 DeFi 유동성이 동시에 늘어나는 자본 효율성을 갖는다는 게 핵심 차별점이에요.
+
+### Q: BGT를 거래할 수 없는데 가치가 있어요?
+
+A: BGT는 BERA로 1:1 소각 전환이 가능해 간접적 가치는 있어요. 다만 거래 가능한 BERA가 BGT보다 항상 작거나 같은 가격을 유지해야 하는 구조라 BGT가 BERA를 잘 추종하는 흐름이에요. BGT 자체의 가치는 거버넌스 권한 + BERA 전환권에서 나와요.
+
+### Q: 5월 6일 +891만 달러 유입은 큰 금액이에요?
+
+A: TVL 32억 달러 규모 기준으로는 약 0.28% 유입이에요. 절대값은 크지 않지만 2025년 6월~2026년 3월 사이 대부분의 일간 자금흐름이 -1,000만~+500만 달러 사이였던 점을 고려하면 상대적으로 긍정적 신호예요. 단 1일 데이터로 추세를 단정할 수는 없어요.
+
+### Q: BERA 가격이 -87% 하락했는데 펀더멘털이 약한 거예요?
+
+A: 가격 하락이 곧 펀더멘털 약화를 의미하지는 않아요. BERA는 유통량이 +210% 증가하면서 토큰 가치 희석이 동시에 진행됐어요. 시가총액 -60% 하락이 더 정확한 지표예요. POL 메커니즘 자체는 정상 작동 중이고 TVL도 32억 달러 안정화 흐름이라 펀더멘털 자체가 무너진 상태는 아니에요.
+
+### Q: HONEY 스테이블코인은 USDT·USDC보다 안전해요?
+
+A: HONEY는 USDC 1:1 백킹이라 안전성은 USDC와 동일 수준이에요. USDC의 Circle 디페그·블랙리스트 리스크가 HONEY에도 그대로 적용돼요. 다만 Berachain 내부 발행이라 브리지 해킹 리스크는 줄어드는 장점이 있어요. 다른 L1에서 USDC를 브리지로 가져오는 것보다는 안전하지만 USDC 자체 리스크는 남아 있어요.
+
+### Q: Berachain Foundation 현금흐름 전환이 BERA 가격에 긍정적이에요?
+
+A: 장기적으로는 긍정적이지만 단기적으로는 인센티브 축소로 사용자 이탈 가능성이 동반해요. Reward Vault 수수료·HONEY 발행 수수료가 안정화되면 Foundation이 외부 자본 없이 운영 가능해지고 BGT 가치도 안정화될 가능성이 있어요. 단 전환 과정에서 1~2분기 TVL 하락은 충분히 발생 가능한 시나리오예요.
+
+### Q: Berachain이 다른 신규 L1(Monad·Sonic·MegaETH)과 비교하면 어때요?
+
+A: 각 L1이 차별점이 달라요. Monad는 EVM 호환 + 1만 TPS 초고속 처리에 강점이 있고 Sonic은 Fantom의 리브랜딩으로 검증된 생태계 + 빠른 finality를 제공해요. MegaETH는 1초 미만 블록 + 100K TPS 초고성능을 목표로 하고 있어요. Berachain은 이들과 달리 POL 메커니즘 + 통합 DeFi 생태계라는 차별점을 가져요. 어떤 L1이 더 좋은지는 사용 목적에 따라 달라요.
+
+### Q: 한국에서 BERA·HONEY를 살 수 있는 거래소가 있어요?
+
+A: 국내 거래소(업비트·빗썸·코인원·코빗·고팍스) 중에서는 BERA가 빗썸·코인원에 상장돼 있어요. 단 거래량이 비교적 적고 KRW 마켓 페어는 제한적이에요. 해외 거래소 Binance·OKX·Bybit·Bitget에 USDT 페어로 상장돼 거래량이 큰 편이에요. HONEY는 한국 거래소 미상장 상태로 Berachain DEX(Kodiak·Honeyswap) 또는 일부 해외 DEX에서만 거래 가능해요.
+
+### Q: BGT가 소울바운드 토큰이라는데 어떤 의미예요?
+
+A: 소울바운드 토큰(SBT)은 한 번 받으면 다른 지갑으로 전송이 불가능한 토큰을 의미해요. BGT는 검증자에게 위임하거나 BERA로 1:1 소각 전환은 가능하지만 다른 사용자에게 양도는 불가능해요. 이 구조 덕에 BGT를 받기 위해서는 본인이 직접 DeFi에 유동성을 공급해야 하고 BGT 시장이 형성되지 않아 가격 조작 위험이 줄어드는 설계예요. 단 보유 BGT를 현금화하려면 BERA로 소각 후 거래소에서 매도하는 두 단계가 필요해요.
+
+## 참고 자료
+
+- Berachain Core Docs "Proof-of-Liquidity FAQs" (2026)
+- DefiLlama Berachain Protocol Page (2026-05-21)
+- BlockEden.xyz "Berachain's Proof-of-Liquidity Hits $3.2B TVL" (2026-03)
+- MEXC "Berachain Mainnet Launch" (2025)
+- CryptoNinjas "Berachain Ecosystem Surges as TVL Soars" (2025~2026)
+
+본 콘텐츠는 정보 제공 목적이며 투자 권유가 아닙니다. BERA·BGT·HONEY 거래 결정과 손익은 본인 책임입니다. 신규 L1 토큰은 변동성이 크고 시장 상황은 빠르게 변할 수 있어 실거래 전 최신 데이터를 반드시 확인해 주세요.
