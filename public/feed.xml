@@ -5,8 +5,48 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 27 May 2026 01:59:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 04:23:00 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[ATR 포지션 사이징 — 변동성 기준으로 비트코인 진입 수량 정하는 법 가이드]]></title>
+      <link>https://www.coindaynow.com/blog/atr-position-sizing-volatility-based-bitcoin-capital-allocation-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/atr-position-sizing-volatility-based-bitcoin-capital-allocation-guide</guid>
+      <description><![CDATA[ATR(평균 진폭)로 포지션 수량을 정하는 변동성 기반 사이징을 정리했어요. 1% 리스크 공식·ATR 배수·변동성 클수록 작은 수량·14주기 설정·고정 비율 리스크 관리·흔한 실수까지 다룬 정보 글이에요.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[바이낸스 SpaceX 프리 IPO 퍼페추얼 SPCXUSDT 상장 — 2조 달러 밸류 베팅 5월 정리]]></title>
+      <link>https://www.coindaynow.com/blog/binance-spacex-pre-ipo-perpetual-spcxusdt-2-trillion-valuation-may-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/binance-spacex-pre-ipo-perpetual-spcxusdt-2-trillion-valuation-may-2026</guid>
+      <description><![CDATA[바이낸스가 5월 21일 프리 IPO 퍼페추얼 선물 SPCXUSDT를 상장했어요. 상장 전 SpaceX 익스포저·USDT 마진·2조 달러 추정 밸류·SpaceX S-1 BTC 1만 8,712개 보유·OKX Crypto.com Trade.xyz 경쟁 구도를 정리한 정보 글이에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[HyperEVM 디파이 생태계 — HyperLend 머니마켓과 하이퍼리퀴드 온체인 5월 정리]]></title>
+      <link>https://www.coindaynow.com/blog/hyperevm-defi-ecosystem-hyperlend-money-market-hyperliquid-onchain-may-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/hyperevm-defi-ecosystem-hyperlend-money-market-hyperliquid-onchain-may-2026</guid>
+      <description><![CDATA[하이퍼리퀴드의 EVM 레이어 HyperEVM 디파이 생태계를 정리했어요. HyperLend 머니마켓·Hypurr 퍼프 유동성 볼트·오더북 연동 precompile·스테이블코인 공급 상위 20위·L1 통합 구조·체크포인트를 다룬 정보 글이에요.]]></description>
+      <category>DeFi·NFT</category>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[모건스탠리 MSOL 솔라나 현물 ETF — 스테이킹 100% 가능 S-1 수정 5월 정리]]></title>
+      <link>https://www.coindaynow.com/blog/morgan-stanley-msol-solana-spot-etf-staking-100-percent-s1-amendment-may-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/morgan-stanley-msol-solana-spot-etf-staking-100-percent-s1-amendment-may-2026</guid>
+      <description><![CDATA[모건스탠리가 5월 20일 솔라나 현물 ETF 수정 S-1을 제출했어요. 티커 MSOL·SOL 최대 100% 스테이킹·BNY 멜런과 코인베이스 커스터디·NYSE Arca 상장 추진·솔라나 ETF 누적 유입 약 11억 달러 흐름을 정리한 정보 글이에요.]]></description>
+      <category>시세·전망</category>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SEI 기가(Giga) 업그레이드 20만 TPS 목표 — 세이 알트코인 5월 정리]]></title>
+      <link>https://www.coindaynow.com/blog/sei-giga-upgrade-200k-tps-altcoin-outlook-may-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/sei-giga-upgrade-200k-tps-altcoin-outlook-may-2026</guid>
+      <description><![CDATA[SEI 네트워크가 상반기 기가(Giga) 업그레이드로 20만 TPS 초과·저지연을 목표로 해요. 고빈도 거래 타깃·병렬 처리 구조·SEI 펀더멘털·L1 경쟁 구도·토크노믹스·체크포인트를 정리한 정보 글이에요.]]></description>
+      <category>알트코인</category>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Coinbase + DFlow 솔라나 통합 — 거래 실패율 1/30에서 1/250로 8배 개선 5월 정리]]></title>
       <link>https://www.coindaynow.com/blog/coinbase-dflow-solana-trading-failure-rate-1-250-eightfold-improvement-may-2026</link>
@@ -366,46 +406,6 @@
       <description><![CDATA[5월 19일 기준 XRP는 1.39달러 부근에서 거래되며 5월 14일 통과된 CLARITY Act 상원위 표결로 디지털 상품 분류가 임박했어요. Standard Chartered는 2026년 말 8달러를 전망했고 7월 4일 백악관 서명 목표일이 핵심 변수예요. 매매 권유 글이 아니에요.]]></description>
       <category>알트코인</category>
       <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[이더리움 $2,265 정체 — Jane Street $82M 추가 vs JPMorgan 약세론 정리]]></title>
-      <link>https://www.coindaynow.com/blog/ethereum-2265-jane-street-jpmorgan-laggard-analysis</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/ethereum-2265-jane-street-jpmorgan-laggard-analysis</guid>
-      <description><![CDATA[5월 15일 기준 이더리움은 $2,265 정체 중이지만 Jane Street가 BlackRock 이더리움 트러스트 노출을 $82M 추가하며 비트코인은 축소했어요. JPMorgan은 이더리움 실수요 부재로 BTC 대비 약세 지속 전망. 매매 권유 글이 아니에요.]]></description>
-      <category>알트코인</category>
-      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5월 20일 FOMC 의사록 — 비트코인 매크로 영향 프리뷰]]></title>
-      <link>https://www.coindaynow.com/blog/fomc-may-2026-minutes-bitcoin-macro-impact-preview</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/fomc-may-2026-minutes-bitcoin-macro-impact-preview</guid>
-      <description><![CDATA[5월 20일 공개되는 FOMC 4월 회의 의사록(파월 의장 마지막 주재)의 비트코인 영향 시나리오를 정리했어요. CPI 3.8%·6월 인하 확률 41%·미-이란 충돌 인플레 가속 등 핵심 변수를 분석했어요. 매매 권유 글이 아니에요.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[김치 프리미엄 트레이딩 — 1.98% 변동성 패턴과 차익거래 가이드]]></title>
-      <link>https://www.coindaynow.com/blog/kimchi-premium-trading-pattern-198-volatility-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/kimchi-premium-trading-pattern-198-volatility-guide</guid>
-      <description><![CDATA[5월 7일 1.98% 정점·5월 9일 0.77% 후퇴까지 5월 김치 프리미엄 변동 패턴을 정리했어요. 김프 차익거래 구조·자본 규제·세금·실전 한계를 객관적으로 분석한 가이드예요. 매매 권유 글이 아니에요.]]></description>
-      <category>트레이딩전략</category>
-      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MEV 서처와 프라이빗 멤풀 — Glamsterdam ePBS 영향 정리]]></title>
-      <link>https://www.coindaynow.com/blog/mev-searcher-private-mempool-glamsterdam-epbs-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/mev-searcher-private-mempool-glamsterdam-epbs-guide</guid>
-      <description><![CDATA[MEV(Maximal Extractable Value)의 작동 원리·서처 봇·프라이빗 멤풀 방어책을 정리했어요. Q3 2026 Glamsterdam 업그레이드의 enshrined PBS(ePBS) 도입과 사용자 영향을 다뤘어요. 매매 권유 글이 아니에요.]]></description>
-      <category>DeFi·NFT</category>
-      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[USDT Tron 블랙리스트 $344M 동결 — 거래소·사용자 영향 정리]]></title>
-      <link>https://www.coindaynow.com/blog/usdt-tron-blacklist-344m-freeze-exchange-impact</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/usdt-tron-blacklist-344m-freeze-exchange-impact</guid>
-      <description><![CDATA[미국 정부가 4월 24일 Tether가 Tron에서 동결한 $344M USDT가 이란 제재 우회 자금이라고 5월 15일 공식 확인했어요. T3 금융범죄 유닛 누적 동결 $450M+, 사용자 입장 영향과 안전 보관 가이드예요. 매매 권유 글이 아니에요.]]></description>
-      <category>거래소</category>
-      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
