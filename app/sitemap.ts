@@ -11,14 +11,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts();
   const tags = getAllTags();
 
-  const postUrls = posts.map((post) => ({
-    url: `${BASE_URL}/blog/${post.slug}`,
-    lastModified: post.dateModified
-      ? new Date(post.dateModified)
-      : new Date(post.date),
-    changeFrequency: "weekly" as const,
-    priority: 0.8,
-  }));
+  // Exclude noindex posts from sitemap so Google doesn't waste crawl on thin pages
+  const postUrls = posts
+    .filter((post) => !post.noindex)
+    .map((post) => ({
+      url: `${BASE_URL}/blog/${post.slug}`,
+      lastModified: post.dateModified
+        ? new Date(post.dateModified)
+        : new Date(post.date),
+      changeFrequency: "weekly" as const,
+      priority: 0.8,
+    }));
 
   const categoryUrls = Object.values(CATEGORIES).map((cat) => ({
     url: `${BASE_URL}/category/${encodeURIComponent(cat.name)}`,

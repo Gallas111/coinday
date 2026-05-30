@@ -24,6 +24,7 @@ export interface PostMeta {
     longTail: string[];
   };
   published: boolean;
+  noindex?: boolean;
   readingTime: number;
 }
 
@@ -58,53 +59,50 @@ function parseFrontmatter(fileContent: string, fileName: string): Post | null {
       longTail: [],
     },
     published: data.published ?? true,
+    noindex: data.noindex === true,
     readingTime: calculateReadingTime(content),
     content,
   };
 }
 
-export function getAllPosts(): PostMeta[] {
-  if (!fs.existsSync(postsDirectory)) return [];
+// Build-time cache: 모든 MDX를 한 번만 읽고 모든 호출에서 재사용.
+// 캐시 없을 때 페이지당 getAllPosts/getPostBySlug/getRelatedPosts가 매번 전체 디렉토리를
+// readFileSync+matter() → 페이지 수 × 파싱 횟수로 빌드 시간 N² 증가. (saju-blog 패턴 포팅)
+let _allPostsCache: Map<string, Post> | null = null;
 
+function loadAllPosts(): Map<string, Post> {
+  if (_allPostsCache) return _allPostsCache;
+  const cache = new Map<string, Post>();
+  if (!fs.existsSync(postsDirectory)) {
+    _allPostsCache = cache;
+    return cache;
+  }
   const fileNames = fs.readdirSync(postsDirectory);
-  const posts: PostMeta[] = [];
-
   for (const fileName of fileNames) {
     if (!fileName.endsWith(".mdx") && !fileName.endsWith(".md")) continue;
-
     const filePath = path.join(postsDirectory, fileName);
     const fileContent = fs.readFileSync(filePath, "utf-8");
     const post = parseFrontmatter(fileContent, fileName);
-
-    if (post) {
-      const { content: _, ...meta } = post;
-      posts.push(meta);
-    }
+    if (post) cache.set(post.slug, post);
   }
+  _allPostsCache = cache;
+  return cache;
+}
 
+export function getAllPosts(): PostMeta[] {
+  const cache = loadAllPosts();
+  const posts: PostMeta[] = [];
+  for (const post of cache.values()) {
+    const { content: _, ...meta } = post;
+    posts.push(meta);
+  }
   return posts.sort(
     (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
   );
 }
 
 export function getPostBySlug(slug: string): Post | null {
-  if (!fs.existsSync(postsDirectory)) return null;
-
-  const fileNames = fs.readdirSync(postsDirectory);
-
-  for (const fileName of fileNames) {
-    if (!fileName.endsWith(".mdx") && !fileName.endsWith(".md")) continue;
-
-    const filePath = path.join(postsDirectory, fileName);
-    const fileContent = fs.readFileSync(filePath, "utf-8");
-    const post = parseFrontmatter(fileContent, fileName);
-
-    if (post && post.slug === slug) {
-      return post;
-    }
-  }
-
-  return null;
+  return loadAllPosts().get(slug) ?? null;
 }
 
 export function getPostsByCategory(category: string): PostMeta[] {
