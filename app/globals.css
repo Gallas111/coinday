@@ -1,24 +1,11 @@
 @import "tailwindcss";
 /* Pretendard CDN @import → layout.tsx preload+swap 패턴으로 이전 (perf: render-blocking 회피) */
 
-/* G마켓 산스 — 헤드라인·로고용 (다운로드 폰트, OFL 라이센스) */
+/* G마켓 산스 — 헤드라인·로고용 (Bold 700만 사용, 한글+ASCII+기호 subset → WOFF2, perf/LCP)
+   Light(300)·Medium(500)은 실사용 없어 제거(2.4MB×2 삭감). 2.51MB TTF → 327KB WOFF2 */
 @font-face {
   font-family: 'GmarketSans';
-  src: url('/fonts/GmarketSansTTFLight.ttf') format('truetype');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'GmarketSans';
-  src: url('/fonts/GmarketSansTTFMedium.ttf') format('truetype');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'GmarketSans';
-  src: url('/fonts/GmarketSansTTFBold.ttf') format('truetype');
+  src: url('/fonts/GmarketSansBold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;

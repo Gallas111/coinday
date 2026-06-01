@@ -112,6 +112,14 @@ export default function RootLayout({
             __html: `(function(){try{var t=localStorage.getItem('theme');document.documentElement.setAttribute('data-theme',t||'light');}catch(e){document.documentElement.setAttribute('data-theme','light');}})();`,
           }}
         />
+        {/* GmarketSans 헤드라인(LCP H1) — Bold subset woff2 preload */}
+        <link
+          rel="preload"
+          as="font"
+          type="font/woff2"
+          href="/fonts/GmarketSansBold.woff2"
+          crossOrigin="anonymous"
+        />
         {/* Pretendard 폰트 비동기 (render-blocking 회피) */}
         <link rel="preconnect" href="https://cdn.jsdelivr.net" />
         <link
