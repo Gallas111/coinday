@@ -5,6 +5,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { getPostBySlug, getAllSlugs, getRelatedPosts } from "@/lib/posts";
 import { extractToc } from "@/lib/toc";
+import imageDims from "@/lib/image-dims.json";
 import { generateArticleSchema, generateBreadcrumbSchema } from "@/lib/seo";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -191,6 +192,36 @@ export default async function BlogPostPage({ params }: Props) {
                 const text = String(children);
                 const id = addHeadingIds(text);
                 return <h4 id={id}>{children}</h4>;
+              },
+              // Inject intrinsic width/height (+ lazy) for body images to
+              // reserve aspect-ratio box and eliminate CLS. Falls back to
+              // the bare img (no dims) when the src is not in the dims map.
+              img: (
+                props: React.ImgHTMLAttributes<HTMLImageElement> & {
+                  node?: unknown;
+                }
+              ) => {
+                // Strip react-markdown's internal `node` prop so it does not
+                // leak into the rendered HTML.
+                const { src, alt, node: _node, ...rest } = props;
+                void _node;
+                const key = typeof src === "string" ? src : "";
+                const dim = (imageDims as Record<string, number[]>)[key];
+                const sizeProps =
+                  dim && dim.length >= 2
+                    ? { width: dim[0], height: dim[1] }
+                    : {};
+                return (
+                  // eslint-disable-next-line @next/next/no-img-element
+                  <img
+                    {...rest}
+                    src={typeof src === "string" ? src : undefined}
+                    alt={alt ?? ""}
+                    {...sizeProps}
+                    loading="lazy"
+                    decoding="async"
+                  />
+                );
               },
             };
 
