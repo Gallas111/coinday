@@ -5,8 +5,48 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 01 Jun 2026 07:29:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 01:25:53 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[ADX·DMI 지표 트레이딩 가이드 — 추세의 '강도'를 읽는 방향성 지수 활용법]]></title>
+      <link>https://www.coindaynow.com/blog/adx-dmi-directional-movement-index-trend-strength-trading-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/adx-dmi-directional-movement-index-trend-strength-trading-guide</guid>
+      <description><![CDATA[ADX·DMI(방향성 이동 지수)는 추세의 방향이 아니라 '강도'를 측정하는 지표예요. ADX 20·25·40 기준선 해석, DI+ DI- 교차 신호, 횡보장에서의 함정과 한계를 균형 있게 정리한 트레이딩 정보 가이드예요.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[아발란체 AVAX 6월 점검 — Progmat 20억 달러 증권형 토큰 이전과 RWA 흐름]]></title>
+      <link>https://www.coindaynow.com/blog/avalanche-avax-progmat-2billion-security-token-migration-june-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/avalanche-avax-progmat-2billion-security-token-migration-june-2026</guid>
+      <description><![CDATA[2026년 6월 일본 Progmat가 약 20억 달러(4,396억 엔) 규모의 증권형 토큰 자산을 아발란체(AVAX) L1으로 이전을 완료할 예정이에요. AVAX 약 9달러 시세·RWA TVL 약 21억 달러·Avalanche9000 업그레이드와 리스크를 균형 있게 정리한 정보 글이에요.]]></description>
+      <category>알트코인</category>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[비트코인 6월 금리 결정 주간 관전 포인트 — 7만 6천 달러 구간과 유동성 흐름 정리]]></title>
+      <link>https://www.coindaynow.com/blog/bitcoin-june-2026-fomc-week-liquidity-76k-outlook</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-june-2026-fomc-week-liquidity-76k-outlook</guid>
+      <description><![CDATA[2026년 6월 비트코인이 약 7만 6천 달러 구간에서 거래되는 가운데 6월 17일 연준(FOMC) 금리 결정을 앞두고 있어요. 동결 전망·유동성 개선 기대와 함께 결정 결과별 가격 시나리오 3가지를 균형 있게 정리한 정보 글이에요.]]></description>
+      <category>시세·전망</category>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[일본 FSA 외화 스테이블코인 규제 6월 1일 시행 — 거래소·결제 생태계 영향 정리]]></title>
+      <link>https://www.coindaynow.com/blog/japan-fsa-foreign-stablecoin-regulation-june-2026-exchange-impact</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/japan-fsa-foreign-stablecoin-regulation-june-2026-exchange-impact</guid>
+      <description><![CDATA[2026년 6월 1일 일본 금융청(FSA)이 해외 신탁형 스테이블코인을 '전자결제수단'으로 인정하는 새 규정을 시행했어요. 등록 사업자가 국내에서 취급할 수 있게 된 배경·요건·거래소 영향과 한계를 균형 있게 정리한 정보 글이에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[유니스왑 v4 훅(Hooks) 가이드 — 싱글톤·플래시 어카운팅이 바꾸는 DeFi 유동성]]></title>
+      <link>https://www.coindaynow.com/blog/uniswap-v4-hooks-singleton-flash-accounting-defi-guide-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/uniswap-v4-hooks-singleton-flash-accounting-defi-guide-2026</guid>
+      <description><![CDATA[유니스왑 v4는 훅(Hooks)·싱글톤 구조·플래시 어카운팅으로 DEX의 작동 방식을 바꿨어요. 풀 생성 가스 절감·동적 수수료·맞춤 AMM의 의미와 훅이 안고 있는 보안 리스크를 균형 있게 정리한 DeFi 정보 가이드예요.]]></description>
+      <category>DeFi·NFT</category>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[센트리퓨지·골드핀치 사모대출 RWA — 국채 너머 '실물 영업'을 토큰화하는 프로토콜 정리 (2026)]]></title>
       <link>https://www.coindaynow.com/blog/centrifuge-goldfinch-private-credit-rwa-real-operations-defi-2026</link>
@@ -366,46 +406,6 @@
       <description><![CDATA[하나은행이 5월 15일 두나무 지분 6.55%(228만 주)를 1조원에 인수한다고 공시했어요. 카카오 투자 보유분 매입 + 6월 15일 종결 + 4대 주주 진입 + 원화 스테이블코인·블록체인 송금·토큰증권·디지털 자산 운용 4축 협력까지 정리한 정보 글이에요.]]></description>
       <category>거래소</category>
       <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[코인베이스 Echo 3.75억 인수 — Sonar 런치패드와 온체인 자금조달 2026년 통합 흐름 정리]]></title>
-      <link>https://www.coindaynow.com/blog/coinbase-echo-sonar-375m-launchpad-onchain-capital-formation-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/coinbase-echo-sonar-375m-launchpad-onchain-capital-formation-2026</guid>
-      <description><![CDATA[코인베이스가 2025년 10월 20일 온체인 자금조달 플랫폼 Echo를 3.75억 달러에 인수했고, Echo의 Sonar 공개 토큰 세일 제품은 2026년 초부터 코인베이스 통합이 시작됐어요. Echo 운영 구조·약 300건 2억 달러 누적 자금조달 실적·Sonar 통합 로드맵·LiquiFi 결합 풀스택 구상까지 정리한 정보 글이에요. 매매 권유 글이 아니에요.]]></description>
-      <category>거래소</category>
-      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[돈치안 채널(Donchian Channel) 비트코인 20·55 돌파 추세 추종 — 표준 설정과 백테스트 흐름 가이드]]></title>
-      <link>https://www.coindaynow.com/blog/donchian-channel-bitcoin-20-55-breakout-trend-following-trading-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/donchian-channel-bitcoin-20-55-breakout-trend-following-trading-guide</guid>
-      <description><![CDATA[돈치안 채널(Donchian Channel)은 Richard Donchian이 1950년대 만든 추세 추종 지표예요. 20일 상단·하단·중간선 구조, 50년 검증된 시스템, 비트코인 일봉 백테스트 흐름, Turtle Trader 20/55 시스템·이중 채널 전략·승률 30~40% 평균 손익비 3:1 패턴, 변동성 스퀴즈 활용까지 정리한 정보 글이에요. 매매 권유 글이 아닌 지표 활용 가이드예요.]]></description>
-      <category>트레이딩전략</category>
-      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Ethena USDe·USDtb 합산 160억 달러 TVL — sUSDe 9.4% APY + Binance 7.34억 달러 예치 5월 흐름]]></title>
-      <link>https://www.coindaynow.com/blog/ethena-usde-usdtb-16b-tvl-susde-9-4-percent-binance-734m-deposit-may-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/ethena-usde-usdtb-16b-tvl-susde-9-4-percent-binance-734m-deposit-may-2026</guid>
-      <description><![CDATA[Ethena 프로토콜의 USDe + USDtb 합산 TVL이 160억 달러를 돌파했고, sUSDe 7일 평균 APY는 약 9.4%(90일 평균 11.8%)예요. Binance USDe 예치 7.34억 달러, 델타 뉴트럴 헤지 구조, 인슈어런스 펀드 1.1% 비중, 펀딩 레이트 의존성·디페그 위험까지 정리한 정보 글이에요. 매매 권유 글이 아니에요.]]></description>
-      <category>DeFi·NFT</category>
-      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[마크 큐반 비트코인 80% 매각 — 금 5,000달러 헤지 narrative 붕괴 5월 22일 시장 영향]]></title>
-      <link>https://www.coindaynow.com/blog/mark-cuban-bitcoin-80percent-sold-gold-5000-hedge-narrative-collapse-may-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/mark-cuban-bitcoin-80percent-sold-gold-5000-hedge-narrative-collapse-may-2026</guid>
-      <description><![CDATA[마크 큐반이 5월 21일 Portfolio Players 팟캐스트에서 비트코인 보유 약 80%를 매각했다고 공개적으로 밝혔어요. 헤지 narrative 붕괴 이유, US-Iran 충돌기 금 5,000달러 vs 비트코인 하락 비교, BTC 7만 7천 달러대 컨솔리데이션, 이더리움은 보유 유지 발언까지 정리한 정보 글이에요. 매매 권유 글이 아니에요.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Pump.fun 솔라나 Q1 2026 매출 36% — PUMP 36% 번 + USDC 유동성 5월 21일 정리]]></title>
-      <link>https://www.coindaynow.com/blog/pump-fun-solana-36-percent-q1-2026-revenue-pump-burn-usdc-may-2026-analysis</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/pump-fun-solana-36-percent-q1-2026-revenue-pump-burn-usdc-may-2026-analysis</guid>
-      <description><![CDATA[Pump.fun이 2026년 Q1 솔라나 네트워크 앱 매출의 36%를 차지했고, 5월에 PUMP 토큰 유통량 36% 번·USDC 유동성 5월 21일 도입·91,708 SOL 트레저리 매각이 동시에 진행됐어요. 매출 1.247억 달러·솔라나 앱 총매출 3.422억 달러·9개월 만의 SOL 매각·9.1억 달러 잠재 매물 흐름까지 정리한 정보 글이에요. 매매 권유 글이 아니에요.]]></description>
-      <category>알트코인</category>
-      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
