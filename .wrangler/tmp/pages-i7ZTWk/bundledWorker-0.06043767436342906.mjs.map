@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": ["../../../out/_worker.js"],
+  "sourceRoot": "C:\\Users\\owner\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0AC\uC774\uD2B8\\coinday\\.wrangler\\tmp\\pages-i7ZTWk\\bundledWorker-0.06043767436342906.mjs",
+  "sourcesContent": ["export default {\n  async fetch(request, env) {\n    const url = new URL(request.url);\n    if (url.hostname === \"coindaynow.com\") {\n      url.hostname = \"www.coindaynow.com\";\n      return Response.redirect(url.toString(), 301);\n    }\n    return env.ASSETS.fetch(request);\n  },\n};\n"],
+  "mappings": ";AAAA,IAAO,iBAAQ;AAAA,EACb,MAAM,MAAM,SAAS,KAAK;AACxB,UAAM,MAAM,IAAI,IAAI,QAAQ,GAAG;AAC/B,QAAI,IAAI,aAAa,kBAAkB;AACrC,UAAI,WAAW;AACf,aAAO,SAAS,SAAS,IAAI,SAAS,GAAG,GAAG;AAAA,IAC9C;AACA,WAAO,IAAI,OAAO,MAAM,OAAO;AAAA,EACjC;AACF;",
+  "names": []
+}
