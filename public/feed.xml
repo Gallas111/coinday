@@ -5,7 +5,7 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 05 Jun 2026 02:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 02:09:39 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title><![CDATA[비트코인 6월 고용·물가 데이터 주간 — NFP·CPI가 FOMC로 이어지는 흐름 정리]]></title>
@@ -37,6 +37,14 @@
       <guid isPermaLink="true">https://www.coindaynow.com/blog/volume-profile-vpvr-poc-value-area-bitcoin-trading-strategy-guide</guid>
       <description><![CDATA[볼륨 프로파일(VPVR)은 시간이 아니라 '가격대별 거래량'을 가로 막대로 보여주는 지표예요. POC(최대 거래 가격)·가치영역(VA 70%)·고/저 거래량 노드(HVN·LVN)의 의미와 매물대 매매 활용법, 그리고 후행성·시간왜곡 같은 한계까지 균형 있게 정리한 트레이딩 정보 가이드예요.]]></description>
       <category>트레이딩전략</category>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[이자부 스테이블코인 3종 비교 — sUSDS·sUSDe·sFRAX 수익 구조와 리스크 (2026년 6월)]]></title>
+      <link>https://www.coindaynow.com/blog/yield-bearing-stablecoin-susds-susde-sfrax-comparison-defi-june-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/yield-bearing-stablecoin-susds-susde-sfrax-comparison-defi-june-2026</guid>
+      <description><![CDATA[이자부(yield-bearing) 스테이블코인 sUSDS(Sky)·sUSDe(Ethena)·sFRAX(Frax)는 같은 '달러 이자'를 표방하지만 수익 엔진이 완전히 달라요. 국채(T-bill) 기반 vs 델타 뉴트럴 펀딩 기반의 차이, 2026년 6월 기준 APY 수준, 그리고 디페그·펀딩 음전환 같은 구조적 위험까지 정리한 DeFi 정보 가이드예요. 매매 권유 글이 아니에요.]]></description>
+      <category>DeFi·NFT</category>
       <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -398,14 +406,6 @@
       <description><![CDATA[Hyperliquid HYPE가 5월 24일 $64.24 사상 최고가를 기록했어요. Bitwise·21Shares ETF 7천 238만 달러 유입·누적 11억 6천만 달러 바이백·고래 단일 청산 2천 700만 달러 사례·기관 수요 흐름까지 정리한 정보 글이에요.]]></description>
       <category>알트코인</category>
       <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[BoA 5월 23일 SOL 보유 축소 + BTC ETF 비중 확대 — 기관 자금 회전 흐름 정리]]></title>
-      <link>https://www.coindaynow.com/blog/bank-of-america-solana-trim-bitcoin-etf-stake-increase-institutional-rotation-may-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/bank-of-america-solana-trim-bitcoin-etf-stake-increase-institutional-rotation-may-2026</guid>
-      <description><![CDATA[뱅크오브아메리카가 2026년 5월 23일 솔라나 연계 보유를 축소하고 비트코인 ETF 지분을 확대했어요. SOL $85.94 0.8% 하락·BTC $77,352 횡보·BoA 13F 분기 보고서 시그널·기관 알트 → BTC 회전 흐름·5월 말 시장 영향까지 정리한 정보 글이에요.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
