@@ -5,14 +5,30 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 06 Jun 2026 11:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 12:05:14 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[디파이 큐레이티드 볼트 완전정리 — Morpho·Aave v4 수익 구조와 큐레이터 위험]]></title>
+      <link>https://www.coindaynow.com/blog/2026-06-06-defi-curated-vaults-morpho-aave-v4-curator-risk-guide-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/2026-06-06-defi-curated-vaults-morpho-aave-v4-curator-risk-guide-2026</guid>
+      <description><![CDATA[2026년 디파이 수익의 새 표준으로 떠오른 '큐레이티드 볼트'를 객관적으로 정리했어요. 한 자산을 맡기면 큐레이터가 여러 격리 시장에 배분해 4~8% 수익을 내는 구조, Morpho Blue의 격리 설계와 Aave v4 비교, 그리고 큐레이터 위탁·스마트컨트랙트·디페그 같은 다층 위험까지 짚는 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>DeFi·NFT</category>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[이더리움 6월 1,700달러 시험 2026 — ETF 자금이탈·약세 국면 흐름 정리]]></title>
       <link>https://www.coindaynow.com/blog/ethereum-1700-june-2026-etf-outflow-correction-weak-outlook</link>
       <guid isPermaLink="true">https://www.coindaynow.com/blog/ethereum-1700-june-2026-etf-outflow-correction-weak-outlook</guid>
       <description><![CDATA[2026년 6월 초 이더리움(ETH)이 1,700달러 부근까지 밀리며 약세 국면을 이어갔어요. 비트코인 현물 ETF 13일 연속 순유출(약 44억 달러), 매크로·지정학 변수, 시장 전체의 큰 폭 조정이 겹친 배경과 ETH가 약한 이유를 균형 있게 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
       <category>시세·전망</category>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FOMC·CPI 이벤트 매매 가이드 — 'sell the news'와 변동성 대응 5요소 정리]]></title>
+      <link>https://www.coindaynow.com/blog/fomc-cpi-macro-event-sell-the-news-volatility-trading-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/fomc-cpi-macro-event-sell-the-news-volatility-trading-guide</guid>
+      <description><![CDATA[6월 CPI(10일)·FOMC(16~17일)처럼 일정이 정해진 매크로 이벤트는 발표 전후로 변동성이 몰려요. 포지션 선반영과 'sell the news', 발표 직후 휩쏘, 펀딩비·미결제약정으로 군중 쏠림 읽는 법, 그리고 이벤트 구간 리스크 관리까지 균형 있게 정리한 트레이딩 정보 가이드예요. 매매 권유가 아니에요.]]></description>
+      <category>트레이딩전략</category>
       <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -390,22 +406,6 @@
       <description><![CDATA[SEI 네트워크가 상반기 기가(Giga) 업그레이드로 20만 TPS 초과·저지연을 목표로 해요. 고빈도 거래 타깃·병렬 처리 구조·SEI 펀더멘털·L1 경쟁 구도·토크노믹스·체크포인트를 정리한 정보 글이에요.]]></description>
       <category>알트코인</category>
       <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Coinbase + DFlow 솔라나 통합 — 거래 실패율 1/30에서 1/250로 8배 개선 5월 정리]]></title>
-      <link>https://www.coindaynow.com/blog/coinbase-dflow-solana-trading-failure-rate-1-250-eightfold-improvement-may-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/coinbase-dflow-solana-trading-failure-rate-1-250-eightfold-improvement-may-2026</guid>
-      <description><![CDATA[Coinbase가 5월 솔라나 DEX 라우팅 인프라 DFlow를 통합했어요. 거래 실패율 1/30에서 1/250로 8배 개선·DFlow가 Coinbase 솔라나 일일 거래량 약 60% 처리·MoonPay 1억 달러 인수·솔라나 DeFi 깊이 정리한 정보 글이에요.]]></description>
-      <category>거래소</category>
-      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ETH/BTC 비율 0.027 다년 저점 — Glamsterdam 중반 업그레이드 기다리는 5월 로테이션 정리]]></title>
-      <link>https://www.coindaynow.com/blog/eth-btc-ratio-0027-multi-year-low-glamsterdam-mid-2026-rotation-analysis</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/eth-btc-ratio-0027-multi-year-low-glamsterdam-mid-2026-rotation-analysis</guid>
-      <description><![CDATA[ETH/BTC 비율이 5월 21일 0.027로 연중 저점을 기록했어요. 200주 이평 0.04828 하회·8월 최고점 0.04324 대비 35% 하락·14개월 연속 0.05 미만·Glamsterdam 중반 업그레이드 기대까지 정리한 정보 글이에요.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
