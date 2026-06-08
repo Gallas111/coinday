@@ -5,7 +5,7 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 08 Jun 2026 02:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 02:21:57 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title><![CDATA[비트코인 5월 CPI 6월 10일 D-3 — 금리 시나리오 3가지와 6만 달러 구간 점검]]></title>
@@ -21,6 +21,22 @@
       <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-token-unlock-june-2026-arb-apt-schedule-sell-pressure</guid>
       <description><![CDATA[2026년 6월 토큰 언락 규모는 144개 프로젝트 약 5억 8천만 달러예요. ARB(6/16)·APT(6/12)·SUI 등 주요 토큰의 언락 일정·금액·시총 대비 비중과, 언락을 매도압력으로 읽는 법까지 정리한 정보 글이에요.]]></description>
       <category>알트코인</category>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[누적 거래량 델타 CVD 다이버전스 매매 가이드 — 매수·매도세 읽는 법]]></title>
+      <link>https://www.coindaynow.com/blog/cumulative-volume-delta-cvd-divergence-crypto-trading-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/cumulative-volume-delta-cvd-divergence-crypto-trading-guide</guid>
+      <description><![CDATA[가격은 신고가인데 매수세가 따라오지 않을 때 CVD(누적 거래량 델타)가 그 균열을 먼저 보여줘요. 델타 개념과 강세·약세 다이버전스, 흡수(absorption) 함정, CVD를 진입 신호가 아닌 확인 도구로 쓰는 법을 정리한 트레이딩 정보 가이드예요. 매매 권유가 아니에요.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[디파이 에어드랍 포인트 파밍 2026 — 시빌 필터·보안 위험 점검 가이드]]></title>
+      <link>https://www.coindaynow.com/blog/defi-airdrop-points-farming-sybil-risk-guide-june-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/defi-airdrop-points-farming-sybil-risk-guide-june-2026</guid>
+      <description><![CDATA[2026년 에어드랍 파밍은 거래량 채우기에서 시간 가중 활동으로 무게추가 옮겨갔어요. 포인트 프로그램 원리, 라인아·레이어제로의 시빌 필터 규모, 보안 위험, 받은 토큰 88%가 3개월 안에 가치를 잃는 현실까지 정리한 정보 가이드예요. 투자 권유가 아니에요.]]></description>
+      <category>DeFi·NFT</category>
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -390,22 +406,6 @@
       <description><![CDATA[XRP가 5월 13일 업비트에서 24시간 거래량 1억 1천만 달러로 비트코인·이더리움을 추월했어요. 현물 전용 규제·40~50대 리테일 증시 이탈 자금이 만든 한국 특유의 거래량 쏠림 구조를 데이터로 정리한 정보 글이에요.]]></description>
       <category>알트코인</category>
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ATR 포지션 사이징 — 변동성 기준으로 비트코인 진입 수량 정하는 법 가이드]]></title>
-      <link>https://www.coindaynow.com/blog/atr-position-sizing-volatility-based-bitcoin-capital-allocation-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/atr-position-sizing-volatility-based-bitcoin-capital-allocation-guide</guid>
-      <description><![CDATA[ATR(평균 진폭)로 포지션 수량을 정하는 변동성 기반 사이징을 정리했어요. 1% 리스크 공식·ATR 배수·변동성 클수록 작은 수량·14주기 설정·고정 비율 리스크 관리·흔한 실수까지 다룬 정보 글이에요.]]></description>
-      <category>트레이딩전략</category>
-      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[바이낸스 SpaceX 프리 IPO 퍼페추얼 SPCXUSDT 상장 — 2조 달러 밸류 베팅 5월 정리]]></title>
-      <link>https://www.coindaynow.com/blog/binance-spacex-pre-ipo-perpetual-spcxusdt-2-trillion-valuation-may-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/binance-spacex-pre-ipo-perpetual-spcxusdt-2-trillion-valuation-may-2026</guid>
-      <description><![CDATA[바이낸스가 5월 21일 프리 IPO 퍼페추얼 선물 SPCXUSDT를 상장했어요. 상장 전 SpaceX 익스포저·USDT 마진·2조 달러 추정 밸류·SpaceX S-1 BTC 1만 8,712개 보유·OKX Crypto.com Trade.xyz 경쟁 구도를 정리한 정보 글이에요.]]></description>
-      <category>거래소</category>
-      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
