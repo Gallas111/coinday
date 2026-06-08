@@ -5,8 +5,32 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 08 Jun 2026 02:21:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 02:39:15 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[알트코인 온체인 매출로 고르는 법 — P/F 비율·실수익으로 옥석 가리기 2026]]></title>
+      <link>https://www.coindaynow.com/blog/altcoin-on-chain-revenue-pf-ratio-real-yield-selection-guide-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/altcoin-on-chain-revenue-pf-ratio-real-yield-selection-guide-2026</guid>
+      <description><![CDATA[알트시즌이 안 오는데 일부 알트만 강한 이유를 '온체인 매출' 관점으로 정리했어요. P/F(가격 대비 수수료) 비율, 실수익(real revenue)과 인센티브 매출 구분, 수치를 어디서 확인하는지까지 담은 선별 프레임 정보 글이에요.]]></description>
+      <category>알트코인</category>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[거래소 수수료 줄이는 법 2026 — VIP 등급·메이커/테이커·네이티브 토큰 할인 정리]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-exchange-fee-vip-tier-maker-taker-native-token-discount-guide-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-exchange-fee-vip-tier-maker-taker-native-token-discount-guide-2026</guid>
+      <description><![CDATA[같은 거래를 해도 수수료가 다른 이유를 구조로 정리했어요. 메이커/테이커 차이, 바이낸스·바이비트·OKX VIP 등급 조건, 네이티브 토큰(BNB·OKB) 할인까지 비교한 거래소 비용 절감 정보 글이에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[솔라나 SOL 6월 점검 — 파이어댄서 메인넷·스테이킹 ETF·250달러 목표 정리]]></title>
+      <link>https://www.coindaynow.com/blog/solana-firedancer-mainnet-staking-etf-250-target-june-2026</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/solana-firedancer-mainnet-staking-etf-250-target-june-2026</guid>
+      <description><![CDATA[솔라나가 6월에 다시 주목받는 이유를 펀더멘털로 정리했어요. 파이어댄서 메인넷 점진 확산(스테이크 약 14%), 스테이킹 포함 현물 ETF 누적 11억 달러 유입, 스탠다드차타드 연말 250달러 목표까지 균형 있게 점검한 정보 글이에요.]]></description>
+      <category>시세·전망</category>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[비트코인 5월 CPI 6월 10일 D-3 — 금리 시나리오 3가지와 6만 달러 구간 점검]]></title>
       <link>https://www.coindaynow.com/blog/bitcoin-may-cpi-june-10-2026-rate-cut-scenarios-60k-outlook</link>
@@ -381,30 +405,6 @@
       <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-exchange-ipo-2026-kraken-hold-bitgo-circle-gemini-listing</guid>
       <description><![CDATA[크라켄이 IPO 계획을 시장 여건 악화로 보류했어요. 2026년 유일 상장사 비트고 주가 -44%, 2025년 상장한 서클·제미니·불리시·eToro 공모가 하회 현황과 2026 IPO 파이프라인 변수를 정리한 정보 글이에요.]]></description>
       <category>거래소</category>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[피보나치 되돌림 비트코인 트레이딩 가이드 — 0.618·0.382 되돌림 비율 활용법과 함정]]></title>
-      <link>https://www.coindaynow.com/blog/fibonacci-retracement-bitcoin-trading-strategy-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/fibonacci-retracement-bitcoin-trading-strategy-guide</guid>
-      <description><![CDATA[피보나치 되돌림(0.236·0.382·0.5·0.618·0.786)을 비트코인 차트에 적용하는 원리·스윙 고점·저점 설정법·다른 지표와의 결합·흔한 함정 5가지를 정리한 정보 글이에요.]]></description>
-      <category>트레이딩전략</category>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Fluid 인스타댑 DEX+렌딩 하이브리드 정리 — 스마트 부채·스마트 담보 $1.6B TVL 5월]]></title>
-      <link>https://www.coindaynow.com/blog/fluid-instadapp-dex-lending-smart-debt-tvl-defi-may-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/fluid-instadapp-dex-lending-smart-debt-tvl-defi-may-2026</guid>
-      <description><![CDATA[인스타댑 팀의 Fluid는 담보와 부채가 동시에 DEX 유동성으로 작동하는 스마트 담보·스마트 부채 구조예요. $1.6B TVL·$1당 $39 유동성·DEX v2·Venus Flux 협업 등 핵심 구조와 위험을 정리한 정보 글이에요.]]></description>
-      <category>DeFi·NFT</category>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[XRP가 업비트·빗썸 거래량 1위로 비트코인 추월 — 한국 리테일 자금 로테이션 구조 분석]]></title>
-      <link>https://www.coindaynow.com/blog/xrp-korea-exchange-volume-number-one-upbit-bithumb-retail</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/xrp-korea-exchange-volume-number-one-upbit-bithumb-retail</guid>
-      <description><![CDATA[XRP가 5월 13일 업비트에서 24시간 거래량 1억 1천만 달러로 비트코인·이더리움을 추월했어요. 현물 전용 규제·40~50대 리테일 증시 이탈 자금이 만든 한국 특유의 거래량 쏠림 구조를 데이터로 정리한 정보 글이에요.]]></description>
-      <category>알트코인</category>
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
