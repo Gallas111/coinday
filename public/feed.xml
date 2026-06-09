@@ -5,14 +5,30 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 09 Jun 2026 07:59:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:19:27 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[앵커드 VWAP 매매 가이드 — CPI 발표를 기준점으로 비트코인 평균가 흐름 읽기]]></title>
+      <link>https://www.coindaynow.com/blog/anchored-vwap-cpi-event-anchor-bitcoin-average-price-trend-trading-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/anchored-vwap-cpi-event-anchor-bitcoin-average-price-trend-trading-guide</guid>
+      <description><![CDATA[일반 VWAP은 매일 0시에 리셋되지만, 앵커드 VWAP은 CPI 발표 같은 사건을 기준점으로 잡아 그 이후 매수자·매도자 중 누가 우위인지 보여줘요. 6월 10일 5월 CPI 발표를 앵커로 삼는 법, 지지·저항 해석, 그리고 후행 지표라는 한계까지 정리한 정보 가이드예요. 매매 권유가 아니에요.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[거래소 출금 보안 7가지 — 2FA·출금 화이트리스트·API 키 안전 설정 가이드]]></title>
       <link>https://www.coindaynow.com/blog/crypto-exchange-withdrawal-security-2fa-whitelist-api-anti-phishing-guide</link>
       <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-exchange-withdrawal-security-2fa-whitelist-api-anti-phishing-guide</guid>
       <description><![CDATA[거래소 계정이 털려도 코인을 못 빼가게 막는 7가지 보안 설정을 정리했어요. 인증 앱 2FA, 출금 주소 화이트리스트, 안티피싱 코드, API 키 권한 최소화, 출금 시간 지연까지 단계별로 짚는 거래소 이용 가이드예요.]]></description>
       <category>거래소</category>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DEX 슬리피지·MEV 샌드위치 공격 방어 가이드 — 디파이 스왑 손실 줄이는 법]]></title>
+      <link>https://www.coindaynow.com/blog/dex-slippage-mev-sandwich-attack-defense-defi-swap-loss-reduction-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/dex-slippage-mev-sandwich-attack-defense-defi-swap-loss-reduction-guide</guid>
+      <description><![CDATA[탈중앙 거래소에서 스왑할 때 받은 수량이 예상보다 적었던 경험, 단순 슬리피지가 아니라 MEV 샌드위치 봇에게 털린 걸 수도 있어요. 슬리피지 설정의 진짜 의미, 샌드위치 공격이 작동하는 원리, 프라이빗 멤풀·MEV 보호 DEX로 방어하는 법까지 정리한 정보 가이드예요. 매매 권유가 아니에요.]]></description>
+      <category>DeFi·NFT</category>
       <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -390,22 +406,6 @@
       <description><![CDATA[2026년 5월 29~30일 수이(Sui) 블록체인이 가스비 계산 소프트웨어 버그로 약 6시간, 이어 3시간 넘게 블록 생산이 멈췄어요. 고성능 L1의 네트워크 안정성 리스크와 투자자가 점검할 항목을 정리한 정보 글이에요.]]></description>
       <category>알트코인</category>
       <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[비트스탬프 로빈후드, 코인데스크 5월 거래소 벤치마크 1위 — 바이낸스 4위로 밀려난 이유]]></title>
-      <link>https://www.coindaynow.com/blog/bitstamp-robinhood-coindesk-exchange-benchmark-may-2026-binance-fourth</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitstamp-robinhood-coindesk-exchange-benchmark-may-2026-binance-fourth</guid>
-      <description><![CDATA[코인데스크 2026년 5월 거래소 벤치마크에서 비트스탬프 바이 로빈후드가 90.26점으로 3년 만에 1위에 올랐어요. 바이낸스 4위 강등·AA 임계 80→85 상향·AA 등급 6개로 축소·Gemini·OKX 강등까지 거래소 평가 변화를 정리한 정보 글이에요.]]></description>
-      <category>거래소</category>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[체인링크 LINK, AWS 마켓플레이스 진입·CCIP v1.5 — 오라클 인프라의 기관 확장 정리]]></title>
-      <link>https://www.coindaynow.com/blog/chainlink-link-aws-marketplace-ccip-v15-oracle-infrastructure-may-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/chainlink-link-aws-marketplace-ccip-v15-oracle-infrastructure-may-2026</guid>
-      <description><![CDATA[체인링크(LINK)가 2026년 4월 데이터 표준을 AWS 마켓플레이스에 출시하고 CCIP v1.5로 셀프서비스 토큰 연동·zk롤업 지원을 확장했어요. AWS 통합·CCIP 업그레이드·LINK 약 $9.3·오라클 인프라 구조와 위험을 정리한 정보 글이에요.]]></description>
-      <category>알트코인</category>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
