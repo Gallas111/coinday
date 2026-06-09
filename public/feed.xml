@@ -5,8 +5,32 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 08 Jun 2026 02:56:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 07:59:58 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[거래소 출금 보안 7가지 — 2FA·출금 화이트리스트·API 키 안전 설정 가이드]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-exchange-withdrawal-security-2fa-whitelist-api-anti-phishing-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-exchange-withdrawal-security-2fa-whitelist-api-anti-phishing-guide</guid>
+      <description><![CDATA[거래소 계정이 털려도 코인을 못 빼가게 막는 7가지 보안 설정을 정리했어요. 인증 앱 2FA, 출금 주소 화이트리스트, 안티피싱 코드, API 키 권한 최소화, 출금 시간 지연까지 단계별로 짚는 거래소 이용 가이드예요.]]></description>
+      <category>거래소</category>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[수이 SUI 6월 점검 — 안정화 업그레이드·딥북 v3·USDsui RWA 정리]]></title>
+      <link>https://www.coindaynow.com/blog/sui-sui-june-2026-network-upgrade-deepbook-v3-rwa-outlook</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/sui-sui-june-2026-network-upgrade-deepbook-v3-rwa-outlook</guid>
+      <description><![CDATA[수이(SUI)가 6월에 다시 거론되는 이유를 펀더멘털로 정리했어요. 6월 1일 안정화 업그레이드, 마진을 더한 딥북(DeepBook) v3, USDsui 스테이블코인과 RWA 토큰화, 그리고 발목을 잡는 토큰 언락 압력까지 매수 권유 없이 균형 있게 점검한 정보 글이에요.]]></description>
+      <category>알트코인</category>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[XRP 리플 6월 점검 — 클래리티법·ETF 14억 유입·에스크로 언락 정리]]></title>
+      <link>https://www.coindaynow.com/blog/xrp-clarity-act-etf-escrow-unlock-june-2026-1-3-outlook</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/xrp-clarity-act-etf-escrow-unlock-june-2026-1-3-outlook</guid>
+      <description><![CDATA[XRP가 6월에 1.3달러 안팎에서 횡보하는 배경을 펀더멘털로 정리했어요. 클래리티(CLARITY)법 진행 상황, 현물 ETF 누적 14억 달러 유입, 6월 1일 10억 개 에스크로 언락의 실제 순공급까지 매수 권유 없이 균형 있게 점검한 정보 글이에요.]]></description>
+      <category>시세·전망</category>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[알트코인 온체인 매출로 고르는 법 — P/F 비율·실수익으로 옥석 가리기 2026]]></title>
       <link>https://www.coindaynow.com/blog/altcoin-on-chain-revenue-pf-ratio-real-yield-selection-guide-2026</link>
@@ -381,30 +405,6 @@
       <guid isPermaLink="true">https://www.coindaynow.com/blog/chainlink-link-aws-marketplace-ccip-v15-oracle-infrastructure-may-2026</guid>
       <description><![CDATA[체인링크(LINK)가 2026년 4월 데이터 표준을 AWS 마켓플레이스에 출시하고 CCIP v1.5로 셀프서비스 토큰 연동·zk롤업 지원을 확장했어요. AWS 통합·CCIP 업그레이드·LINK 약 $9.3·오라클 인프라 구조와 위험을 정리한 정보 글이에요.]]></description>
       <category>알트코인</category>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[이더리움 ETH/BTC 비율 10주 고점 회복 — 스테이킹 30% 돌파·자금 로테이션 5월 전망]]></title>
-      <link>https://www.coindaynow.com/blog/ethereum-eth-btc-ratio-10week-high-staking-30-percent-may-2026-outlook</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/ethereum-eth-btc-ratio-10week-high-staking-30-percent-may-2026-outlook</guid>
-      <description><![CDATA[2026년 5월 말 이더리움은 약 $2,013, ETH/BTC 비율은 0.02835 다년 저점에서 10주 고점으로 단기 반등했어요. 스테이킹 30%(약 3,600만 ETH·$120B) 돌파·기관 자금 로테이션 흐름까지 ETH 시장 구조를 정리한 정보 글이에요.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[오픈씨 vs 블러 vs 매직에덴 — NFT 마켓플레이스 수수료·로열티 비교 2026]]></title>
-      <link>https://www.coindaynow.com/blog/opensea-blur-magiceden-nft-marketplace-fee-royalty-comparison-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/opensea-blur-magiceden-nft-marketplace-fee-royalty-comparison-2026</guid>
-      <description><![CDATA[2026년 NFT 마켓플레이스 3대장 오픈씨·블러·매직에덴을 수수료(0.5%·0%·약 2%)·로열티 정책·체인 커버리지·거래량 기준으로 비교했어요. H1 2026 거래량 약 28억 달러·전년比 50% 감소 등 NFT 시장 구조와 위험을 정리한 정보 글이에요.]]></description>
-      <category>DeFi·NFT</category>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[오더북 임밸런스·호가창 깊이로 보는 단타 — 매수/매도벽 읽는 스캘핑 전략 가이드]]></title>
-      <link>https://www.coindaynow.com/blog/order-book-imbalance-depth-scalping-crypto-trading-strategy-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/order-book-imbalance-depth-scalping-crypto-trading-strategy-guide</guid>
-      <description><![CDATA[오더북(호가창)의 매수/매도 깊이 불균형을 읽는 임밸런스 스캘핑 전략을 정리했어요. 레벨2 데이터·매수벽 매도벽·주문 흐름 불균형·스푸핑 함정·리스크 관리까지 단타 트레이더가 알아야 할 호가창 읽기를 정리한 정보 글이에요.]]></description>
-      <category>트레이딩전략</category>
       <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
