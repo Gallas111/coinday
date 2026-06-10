@@ -5,8 +5,32 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 09 Jun 2026 08:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 01:45:04 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[비트코인 5월 CPI 발표 당일 — 4.2% 예상치와 달러인덱스 반응 시나리오]]></title>
+      <link>https://www.coindaynow.com/blog/bitcoin-may-cpi-release-day-june-2026-dxy-rate-scenarios-outlook</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-may-cpi-release-day-june-2026-dxy-rate-scenarios-outlook</guid>
+      <description><![CDATA[6월 10일 밤(현지 오전 8시 30분) 5월 미국 CPI가 발표돼요. 헤드라인 4.2%·코어 2.9% 예상치, 달러인덱스(DXY) 시나리오, 6월 17일 FOMC로 이어지는 금리 경로, 그리고 비트코인 6만 달러대 지지 구간을 발표 당일 관점에서 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>시세·전망</category>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CPI 발표 직후 휩쏘 피하기 — 변동성 수축 후 진입하는 이벤트 매매 가이드]]></title>
+      <link>https://www.coindaynow.com/blog/cpi-release-day-whipsaw-fakeout-volatility-contraction-trading-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/cpi-release-day-whipsaw-fakeout-volatility-contraction-trading-guide</guid>
+      <description><![CDATA[지표 발표 직후 1분 봉 급등락에 쓸리는 휩쏘·페이크아웃은 이벤트 매매 초보가 가장 자주 당하는 함정이에요. 변동성 확장·수축 구조, 발표 직후를 관찰하는 이유, 스프레드·청산가 관리까지 6월 10일 CPI를 예로 정리한 정보 가이드예요.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[펀딩비 거래소 비교 — 바이낸스·바이비트·OKX 펀딩레이트와 이벤트 급등 대처]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-perpetual-funding-rate-binance-bybit-okx-comparison-event-spike-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-perpetual-funding-rate-binance-bybit-okx-comparison-event-spike-guide</guid>
+      <description><![CDATA[무기한 선물의 펀딩비(펀딩레이트)는 거래소마다 정산 주기·산식·상한이 달라요. 바이낸스·바이비트·OKX의 8시간 정산 구조와 상한(±0.75~3%), CPI 같은 이벤트 때 펀딩이 급등하는 이유, 보유 비용 계산법까지 정리한 정보 가이드예요. 매매 권유가 아니에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[앵커드 VWAP 매매 가이드 — CPI 발표를 기준점으로 비트코인 평균가 흐름 읽기]]></title>
       <link>https://www.coindaynow.com/blog/anchored-vwap-cpi-event-anchor-bitcoin-average-price-trend-trading-guide</link>
@@ -381,30 +405,6 @@
       <guid isPermaLink="true">https://www.coindaynow.com/blog/chandelier-exit-atr-trailing-stop-bitcoin-trend-trading-guide</guid>
       <description><![CDATA[샹들리에 엑싯은 최근 고점에서 ATR의 배수만큼 아래에 손절선을 두는 추적 손절(트레일링 스톱) 기법이에요. 비트코인 같은 변동성 큰 시장에서 추세를 끝까지 타면서 수익을 보호하는 원리와 설정·한계를 정리한 정보 글이에요.]]></description>
       <category>트레이딩전략</category>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RWA 프로토콜이 DEX를 추월 — 실물자산 토큰화, DeFi TVL 5위 카테고리로 부상 (2026)]]></title>
-      <link>https://www.coindaynow.com/blog/rwa-protocols-overtake-dex-defi-tvl-fifth-category-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/rwa-protocols-overtake-dex-defi-tvl-fifth-category-2026</guid>
-      <description><![CDATA[실물자산(RWA) 토큰화 프로토콜이 탈중앙거래소(DEX)를 제치고 DeFi TVL 기준 5위 카테고리로 올라섰어요. 토큰화 국채·사모대출·원자재로 약 170억~300억 달러가 모인 흐름과 그 구조를 정리한 정보 글이에요.]]></description>
-      <category>DeFi·NFT</category>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[단일 코인 ETF 자금 분기 — XRP 순유입 vs 비트코인·이더리움 20억 달러 순유출 디커플링]]></title>
-      <link>https://www.coindaynow.com/blog/single-coin-etf-rotation-xrp-inflow-btc-eth-2billion-outflow</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/single-coin-etf-rotation-xrp-inflow-btc-eth-2billion-outflow</guid>
-      <description><![CDATA[2026년 5월 20~29일 XRP 현물 ETF가 약 3,500만 달러를 끌어모으는 동안 비트코인·이더리움 ETF는 합산 약 20억 달러가 빠져나갔어요. 단일 코인 ETF 자금 흐름이 비트코인과 디커플링되는 구조와 그 의미를 정리한 정보 글이에요.]]></description>
-      <category>거래소</category>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[수이(SUI) 네트워크 정지 사태 — 5월 가스비 버그로 두 차례 블록 생산 중단, 알트코인 리스크 정리]]></title>
-      <link>https://www.coindaynow.com/blog/sui-network-halt-may-2026-gas-fee-bug-outage-altcoin-risk</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/sui-network-halt-may-2026-gas-fee-bug-outage-altcoin-risk</guid>
-      <description><![CDATA[2026년 5월 29~30일 수이(Sui) 블록체인이 가스비 계산 소프트웨어 버그로 약 6시간, 이어 3시간 넘게 블록 생산이 멈췄어요. 고성능 L1의 네트워크 안정성 리스크와 투자자가 점검할 항목을 정리한 정보 글이에요.]]></description>
-      <category>알트코인</category>
       <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
