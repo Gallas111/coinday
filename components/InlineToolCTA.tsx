@@ -18,11 +18,21 @@ export default function InlineToolCTA({ category }: InlineToolCTAProps) {
               투자 정보 안내
             </h4>
             <p className="text-sm text-[var(--muted-strong)] leading-relaxed">
-              본 글은 미국 주식·ETF에 대한{" "}
+              본 글은 암호화폐 시장에 대한{" "}
               <strong className="!bg-transparent !p-0 text-[var(--foreground)]">
-                객관 데이터·시뮬레이션 정보
-              </strong>이며, 특정 종목 매수·매도 권유가 아닙니다. 환율·세금·시장 변동
-              리스크가 있어 본인 판단과 전문가 상담 후 결정하세요.
+                객관 데이터·정보 제공
+              </strong>{" "}
+              목적이며, 특정 코인 매수·매도 권유가 아닙니다. 암호화폐는 변동성이
+              매우 크고 원금 전액 손실이 가능하므로 본인 판단과 책임 하에
+              결정하세요.
+            </p>
+            <p className="text-sm mt-2">
+              <a
+                href="/tools/liquidation-calculator"
+                className="text-[var(--accent)] font-medium hover:underline"
+              >
+                ⚡ 내 포지션 점검 — 레버리지별 청산가 계산기로 확인해 보기
+              </a>
             </p>
           </div>
         </div>

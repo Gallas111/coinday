@@ -48,6 +48,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...categoryUrls,
     ...tagUrls,
     {
+      url: `${BASE_URL}/tools/liquidation-calculator`,
+      lastModified: new Date("2026-06-11"),
+      changeFrequency: "monthly" as const,
+      priority: 0.9,
+    },
+    {
       url: `${BASE_URL}/about`,
       lastModified: new Date("2026-04-28"),
       changeFrequency: "monthly" as const,

@@ -81,7 +81,7 @@ export default async function BlogPostPage({ params }: Props) {
     { name: post.title, url: postUrl },
   ]);
 
-  // Extract FAQ from content
+  // Extract FAQ from content — '### 질문' 또는 '**Q. 질문**' 변형(현행 표준, 2026-06-11 전까지 미스키마) 둘 다 지원
   const faqSection = post.content.match(
     /## 자주 묻는 질문[\s\S]*$/
   );
@@ -94,6 +94,13 @@ export default async function BlogPostPage({ params }: Props) {
         question: match[1].trim(),
         answer: match[2].trim(),
       });
+    }
+    if (faqs.length === 0) {
+      const boldRegex =
+        /\*\*Q[.:]?\s*(.+?)\*\*\n+(?:A[.:]\s*)?([\s\S]*?)(?=\n\*\*Q|\n## |$)/g;
+      while ((match = boldRegex.exec(faqSection[0])) !== null) {
+        faqs.push({ question: match[1].trim(), answer: match[2].trim() });
+      }
     }
   }
 
