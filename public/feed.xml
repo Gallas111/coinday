@@ -5,7 +5,7 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 15 Jun 2026 02:42:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 02:55:43 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title><![CDATA[거래소 가짜 거래량 구분법 — 자전거래와 진짜 유동성 확인하는 5가지 방법]]></title>
@@ -13,6 +13,14 @@
       <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-exchange-fake-volume-wash-trading-real-liquidity-check-guide</guid>
       <description><![CDATA[거래소·코인 페이지에 적힌 거래량이 실제 유동성과 다를 수 있는 이유를 정리했어요. 자전거래(워시트레이딩)의 원리, 거래량 부풀리기 배수, 호가창 깊이·스프레드·교차 비교로 진짜 유동성을 확인하는 5가지 방법과 체크리스트까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
       <category>거래소</category>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[분할 익절 vs 한 번에 정리 — 부분 익절로 수익 지키는 5단계 전략]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-partial-take-profit-scaling-out-position-management-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-partial-take-profit-scaling-out-position-management-guide</guid>
+      <description><![CDATA[가격이 올랐을 때 전량 매도와 분할 익절(부분 익절) 중 무엇이 나은지 정리했어요. 분할 익절의 원리, 25퍼센트씩 단계 매도하는 라더링, 트레일링 스톱과 결합하는 법, 흔한 실수와 자가진단 체크리스트까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>트레이딩전략</category>
       <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -29,6 +37,14 @@
       <guid isPermaLink="true">https://www.coindaynow.com/blog/solana-firedancer-validator-client-diversity-decentralization-risk-guide</guid>
       <description><![CDATA[솔라나의 새 검증인 클라이언트 파이어댄서(Firedancer)가 왜 중요한지 정리했어요. 클라이언트 다양성이 네트워크 안정성에 주는 의미, 프랑켄댄서 스테이크 비중, 33% 임계치, 단일 클라이언트 의존 리스크와 투자자가 점검할 지표까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
       <category>알트코인</category>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[스테이블코인 디페그 조기경보 — 보유 전 점검하는 5가지 신호]]></title>
+      <link>https://www.coindaynow.com/blog/stablecoin-depeg-early-warning-signals-monitoring-checklist-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/stablecoin-depeg-early-warning-signals-monitoring-checklist-guide</guid>
+      <description><![CDATA[스테이블코인이 1달러에서 벗어나는 디페그가 터지기 전에 보이는 조기 신호를 정리했어요. 가격 이탈 지속 시간, 준비금 보고 지연, 상환 대기열, 거래소 입출금 중단, 온체인 공급량 급감까지 무료 도구로 점검하는 5가지 신호와 체크리스트를 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>DeFi·NFT</category>
       <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -390,22 +406,6 @@
       <description><![CDATA[2026년 두나무(업비트 운영사)와 네이버파이낸셜의 합병이 공정위 심사 장기화로 3개월 미뤄졌어요. 완료 시점이 6월 30일에서 9월 30일로, 주주총회는 8월로 연기됐죠. 지연 배경, 디지털자산기본법의 34% 지분 한도 변수, 두나무 IPO 계획까지 균형 있게 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
       <category>거래소</category>
       <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[비트코인 6월 고용·물가 데이터 주간 — NFP·CPI가 FOMC로 이어지는 흐름 정리]]></title>
-      <link>https://www.coindaynow.com/blog/bitcoin-june-2026-jobs-cpi-data-week-fomc-macro-outlook</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-june-2026-jobs-cpi-data-week-fomc-macro-outlook</guid>
-      <description><![CDATA[6월 5일 고용보고서(NFP)와 6월 10일 소비자물가(CPI)가 6월 17일 연준 회의로 이어지는 매크로 데이터 주간을 정리했어요. 고용·물가가 비트코인에 전달되는 경로와 결과별 시나리오 3가지를 균형 있게 짚는 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[카르다노 ADA 6월 점검 2026 — 레이오스 테스트넷·반로셈 하드포크·호스킨슨 경고 정리]]></title>
-      <link>https://www.coindaynow.com/blog/cardano-ada-june-2026-leios-testnet-van-rossem-hardfork-outlook</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/cardano-ada-june-2026-leios-testnet-van-rossem-hardfork-outlook</guid>
-      <description><![CDATA[2026년 6월 카르다노(ADA) 흐름을 레이오스 테스트넷 가동, 6월 말 반로셈(Van Rossem) 하드포크(프로토콜 버전 11), 창립자 호스킨슨의 하이에이터스 발언을 중심으로 정리했어요. 기술 진척과 생태계 잡음을 균형 있게 짚는 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>알트코인</category>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
