@@ -5,14 +5,94 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 13 Jun 2026 04:22:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 02:42:10 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[거래소 가짜 거래량 구분법 — 자전거래와 진짜 유동성 확인하는 5가지 방법]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-exchange-fake-volume-wash-trading-real-liquidity-check-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-exchange-fake-volume-wash-trading-real-liquidity-check-guide</guid>
+      <description><![CDATA[거래소·코인 페이지에 적힌 거래량이 실제 유동성과 다를 수 있는 이유를 정리했어요. 자전거래(워시트레이딩)의 원리, 거래량 부풀리기 배수, 호가창 깊이·스프레드·교차 비교로 진짜 유동성을 확인하는 5가지 방법과 체크리스트까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FOMC 점도표가 비트코인을 움직이는 이유 — 6월 17일 시나리오별 대응 가이드]]></title>
+      <link>https://www.coindaynow.com/blog/fomc-dot-plot-bitcoin-mechanism-june-17-2026-scenario-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/fomc-dot-plot-bitcoin-mechanism-june-17-2026-scenario-guide</guid>
+      <description><![CDATA[6월 16~17일 FOMC를 앞두고 금리 결정보다 점도표(dot plot)가 비트코인을 더 크게 흔드는 이유를 정리했어요. 점도표가 가격에 전달되는 경로, 6월 17일 매파·중립·비둘기 시나리오별 흐름, 발표 전후 변동성에 대비하는 체크리스트까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>시세·전망</category>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[솔라나 파이어댄서 완전 정리 — 검증인 클라이언트 다양성과 탈중앙화 리스크]]></title>
+      <link>https://www.coindaynow.com/blog/solana-firedancer-validator-client-diversity-decentralization-risk-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/solana-firedancer-validator-client-diversity-decentralization-risk-guide</guid>
+      <description><![CDATA[솔라나의 새 검증인 클라이언트 파이어댄서(Firedancer)가 왜 중요한지 정리했어요. 클라이언트 다양성이 네트워크 안정성에 주는 의미, 프랑켄댄서 스테이크 비중, 33% 임계치, 단일 클라이언트 의존 리스크와 투자자가 점검할 지표까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>알트코인</category>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[거래소 입금이 안 들어와요 — 데스티네이션 태그·메모 누락 원인과 복구 절차 가이드]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-exchange-deposit-not-credited-destination-tag-memo-recovery-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-exchange-deposit-not-credited-destination-tag-memo-recovery-guide</guid>
+      <description><![CDATA[XRP·XLM 등을 거래소로 보냈는데 입금이 안 들어올 때, 가장 흔한 원인인 데스티네이션 태그·메모 누락을 정리했어요. 왜 태그가 필요한지, 복구 신청 절차와 준비물, 복구 안 되는 경우, 예방 체크리스트까지 담은 정보 글이에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[6월 쿼드러플 위칭데이(6월 18일) — 선물·옵션 동시만기와 코인 변동성 대응 가이드]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-quadruple-witching-june-2026-derivatives-expiry-volatility-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-quadruple-witching-june-2026-derivatives-expiry-volatility-guide</guid>
+      <description><![CDATA[2026년 6월 18일 쿼드러플 위칭데이에 7조 달러 규모 파생상품이 동시 만기돼요. 동시만기가 무엇인지, 왜 코인까지 흔들리는지, FOMC와 겹친 6월 주간의 변동성 구조와 대응법을 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>코인뉴스</category>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 분할 매수 전략 — 물타기·불타기·피라미딩 차이와 변동성 구간 분할 진입법]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-split-buy-pyramiding-vs-averaging-down-position-entry-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-split-buy-pyramiding-vs-averaging-down-position-entry-guide</guid>
+      <description><![CDATA[코인을 한 번에 다 사지 않고 나눠 담는 분할 매수의 원리를 정리했어요. 물타기(평단 낮추기)와 불타기·피라미딩(추세 추종)의 손익 구조 차이, 변동성 이벤트 주간의 분할 진입 설계, 흔한 실수 5가지까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DeFi APY 함정 — 명목 이자율과 실질 수익률이 다른 이유와 확인법]]></title>
+      <link>https://www.coindaynow.com/blog/defi-apy-vs-apr-real-yield-impermanent-loss-token-emission-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/defi-apy-vs-apr-real-yield-impermanent-loss-token-emission-guide</guid>
+      <description><![CDATA[DeFi 풀에 적힌 화려한 APY가 실제 손에 쥐는 수익과 다른 이유를 정리했어요. APY와 APR의 차이, 토큰 인플레이션과 임퍼머넌트 로스가 수익을 깎는 구조, 토큰 보상 수익과 실질 수익(real yield)의 차이, 확인 체크리스트까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>DeFi·NFT</category>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[이더리움 스테이킹 ETF 2026 — ETHB·ETHE 구조와 배당 수익률, ETH 보유 관점 정리]]></title>
+      <link>https://www.coindaynow.com/blog/ethereum-staking-etf-2026-ethb-ethe-yield-structure-eth-outlook</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/ethereum-staking-etf-2026-ethb-ethe-yield-structure-eth-outlook</guid>
+      <description><![CDATA[2026년 상반기 미국에서 이더리움 스테이킹 ETF가 잇따라 출시됐어요. ETHB·ETHE의 구조, 3.1~3.3% 스테이킹 수익률과 수수료 차감 후 실수령, 직접 스테이킹과의 차이를 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>알트코인</category>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[시가총액 vs FDV(완전희석가치) 차이 — 알트코인 고평가 판별하는 법]]></title>
       <link>https://www.coindaynow.com/blog/altcoin-market-cap-vs-fdv-fully-diluted-valuation-overvaluation-guide</link>
       <guid isPermaLink="true">https://www.coindaynow.com/blog/altcoin-market-cap-vs-fdv-fully-diluted-valuation-overvaluation-guide</guid>
       <description><![CDATA[알트코인을 볼 때 시가총액만 보면 안 되는 이유와 FDV(완전희석가치)의 뜻을 정리했어요. 유통량·총공급량·MC/FDV 비율로 고평가를 판별하는 법, 토큰 언락이 가격에 주는 압력, 흔한 착시 5가지까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
       <category>알트코인</category>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[비트코인 옵션 만기일 맥스페인 뜻 — 디리비트 미결제약정과 6월 만기 영향 정리]]></title>
+      <link>https://www.coindaynow.com/blog/bitcoin-options-expiry-max-pain-deribit-open-interest-june-2026-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-options-expiry-max-pain-deribit-open-interest-june-2026-guide</guid>
+      <description><![CDATA[비트코인 옵션 만기일이 다가오면 왜 시세가 특정 가격에 '붙는지', 맥스페인(Max Pain)과 디리비트 미결제약정이 무엇인지 쉽게 정리했어요. 6월 26일 만기 데이터로 본 영향과 흔한 오해까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>시세전망</category>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[크로스체인 브리지 위험 정리 — 해킹 사례와 자산 이동 안전 점검 가이드]]></title>
+      <link>https://www.coindaynow.com/blog/cross-chain-bridge-hack-risk-asset-transfer-safety-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/cross-chain-bridge-hack-risk-asset-transfer-safety-guide</guid>
+      <description><![CDATA[크로스체인 브리지가 왜 해킹의 단골 표적인지, 론인·웜홀 같은 대형 사고에서 무엇이 뚫렸는지, 더 안전한 브리지를 고르는 기준은 무엇인지 정리했어요. 체인 간 자산을 옮길 때 손실을 줄이는 체크리스트까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>DeFi·NFT</category>
       <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -326,86 +406,6 @@
       <description><![CDATA[2026년 6월 카르다노(ADA) 흐름을 레이오스 테스트넷 가동, 6월 말 반로셈(Van Rossem) 하드포크(프로토콜 버전 11), 창립자 호스킨슨의 하이에이터스 발언을 중심으로 정리했어요. 기술 진척과 생태계 잡음을 균형 있게 짚는 정보 글이에요. 매매 권유가 아니에요.]]></description>
       <category>알트코인</category>
       <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[코인베이스 CFTC 무기한 선물 승인 2026 — 미국 규제권 진입과 데리비트 경로 정리]]></title>
-      <link>https://www.coindaynow.com/blog/coinbase-cftc-perpetual-futures-approval-deribit-us-regulated-june-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/coinbase-cftc-perpetual-futures-approval-deribit-us-regulated-june-2026</guid>
-      <description><![CDATA[2026년 5월 말 미국 CFTC가 코인베이스에 무기한 선물(퍼프) 제공을 허용했어요. 오프쇼어 데리비트를 통한 경로, 칼시 BTCPERP 승인, 두 갈래 규제 통로, 6월 초 청산 사태까지 균형 있게 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>거래소</category>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[볼륨 프로파일·VPVR 매물대 매매 가이드 — POC·가치영역·HVN/LVN 3요소 정리]]></title>
-      <link>https://www.coindaynow.com/blog/volume-profile-vpvr-poc-value-area-bitcoin-trading-strategy-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/volume-profile-vpvr-poc-value-area-bitcoin-trading-strategy-guide</guid>
-      <description><![CDATA[볼륨 프로파일(VPVR)은 시간이 아니라 '가격대별 거래량'을 가로 막대로 보여주는 지표예요. POC(최대 거래 가격)·가치영역(VA 70%)·고/저 거래량 노드(HVN·LVN)의 의미와 매물대 매매 활용법, 그리고 후행성·시간왜곡 같은 한계까지 균형 있게 정리한 트레이딩 정보 가이드예요.]]></description>
-      <category>트레이딩전략</category>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[이자부 스테이블코인 3종 비교 — sUSDS·sUSDe·sFRAX 수익 구조와 리스크 (2026년 6월)]]></title>
-      <link>https://www.coindaynow.com/blog/yield-bearing-stablecoin-susds-susde-sfrax-comparison-defi-june-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/yield-bearing-stablecoin-susds-susde-sfrax-comparison-defi-june-2026</guid>
-      <description><![CDATA[이자부(yield-bearing) 스테이블코인 sUSDS(Sky)·sUSDe(Ethena)·sFRAX(Frax)는 같은 '달러 이자'를 표방하지만 수익 엔진이 완전히 달라요. 국채(T-bill) 기반 vs 델타 뉴트럴 펀딩 기반의 차이, 2026년 6월 기준 APY 수준, 그리고 디페그·펀딩 음전환 같은 구조적 위험까지 정리한 DeFi 정보 가이드예요. 매매 권유 글이 아니에요.]]></description>
-      <category>DeFi·NFT</category>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[리퀴드 리스테이킹(LRT) 리스크 2026 — 디페그·재귀 수익률·다층 위험 가이드]]></title>
-      <link>https://www.coindaynow.com/blog/liquid-restaking-lrt-risk-depeg-recursive-yield-defi-guide-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/liquid-restaking-lrt-risk-depeg-recursive-yield-defi-guide-2026</guid>
-      <description><![CDATA[리퀴드 리스테이킹 토큰(LRT)의 수익과 위험을 객관적으로 정리했어요. 아이겐레이어 약 197억 달러 TVL, 기본 4~6% APY와 재귀 루프로 12~20%까지 끌어올릴 때의 청산 위험, 출금 지연과 디페그, 다층 스마트컨트랙트 리스크까지 짚는 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>DeFi·NFT</category>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[선물 거래 진짜 비용 2026 — 수수료·펀딩비·슬리피지로 본 거래소 비교]]></title>
-      <link>https://www.coindaynow.com/blog/perpetual-futures-real-cost-fee-funding-slippage-exchange-comparison-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/perpetual-futures-real-cost-fee-funding-slippage-exchange-comparison-2026</guid>
-      <description><![CDATA[무기한 선물의 진짜 비용을 메이커·테이커 수수료, 8시간마다 정산되는 펀딩비, 체결 슬리피지 세 축으로 정리했어요. 바이낸스·바이비트·OKX의 2026년 선물 수수료, 펀딩비가 비용이 되는 구조, 변동성 장에서 비용이 급증하는 사례까지 객관적으로 비교하는 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>거래소</category>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[렌더(RENDER) 네트워크 2026 — DePIN GPU·번민(BME) 구조와 AI 수요로 본 흐름]]></title>
-      <link>https://www.coindaynow.com/blog/render-network-depin-gpu-bme-tokenomics-ai-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/render-network-depin-gpu-bme-tokenomics-ai-2026</guid>
-      <description><![CDATA[탈중앙 GPU 렌더링 네트워크 렌더(RENDER)를 약 1.45달러대 가격, 번민(Burn-and-Mint) 토크노믹스, 2025년 약 560만 RENDER 발행량, AI 워크로드용 서브넷 디스퍼스드까지 객관적으로 정리했어요. DePIN 섹터에서 RENDER가 어떤 위치인지 균형 있게 짚는 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>알트코인</category>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RSI 다이버전스 4종 패턴 정리 — 정규·히든 강세/약세 비트코인 트레이딩 가이드]]></title>
-      <link>https://www.coindaynow.com/blog/rsi-divergence-4-types-hidden-regular-bitcoin-trading-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/rsi-divergence-4-types-hidden-regular-bitcoin-trading-guide</guid>
-      <description><![CDATA[비트코인 차트의 RSI 다이버전스를 정규 강세·약세, 히든 강세·약세 네 패턴으로 구분해 정리했어요. 반전 신호와 추세 지속 신호를 헷갈리지 않는 법과 강한 추세에서의 한계까지 짚는 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>트레이딩전략</category>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[XRP 6월 흐름 2026 — 에스크로 언락·상원 클래리티 법안 일정으로 본 변수]]></title>
-      <link>https://www.coindaynow.com/blog/xrp-june-2026-escrow-unlock-clarity-act-senate-outlook</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/xrp-june-2026-escrow-unlock-clarity-act-senate-outlook</guid>
-      <description><![CDATA[2026년 6월 XRP 흐름을 약 1.3달러대 가격, 월 5억 5천만 XRP 에스크로 언락, 상원 본회의 일정에 오른 클래리티(CLARITY) 법안, 14억 달러대 현물 XRP ETF 자금이라는 네 가지 변수로 정리했어요. 왜 이번 달이 '횡보 우위'로 읽히는지 균형 있게 짚는 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[알트코인 6월 전망 2026 — 알트시즌 지수 35·BTC 도미넌스 60.9%로 본 흐름]]></title>
-      <link>https://www.coindaynow.com/blog/altcoin-outlook-june-2026-dominance-altseason-index</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/altcoin-outlook-june-2026-dominance-altseason-index</guid>
-      <description><![CDATA[알트코인 6월 전망 2026을 비트코인 도미넌스 약 60.9%, 알트시즌 지수 35, XRP·SOL·ETH의 연초 대비 성과로 객관적으로 정리했어요. 이번 사이클이 왜 '선별적 로테이션'인지, 2026 알트시즌 진입 조건은 무엇인지 균형 있게 짚는 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[BNB 2026 전망 — 페르미 업그레이드 0.45초 블록·VanEck 현물 ETF로 본 흐름]]></title>
-      <link>https://www.coindaynow.com/blog/bnb-2026-roadmap-fermi-upgrade-vaneck-etf-outlook</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/bnb-2026-roadmap-fermi-upgrade-vaneck-etf-outlook</guid>
-      <description><![CDATA[2026년 BNB와 BNB체인 흐름을 페르미(Fermi) 하드포크 0.45초 블록타임, 2만 TPS 목표 로드맵, VanEck의 첫 미국 현물 BNB ETF(VBNB)를 중심으로 정리했어요. 기술 업그레이드와 기관 접근성이 토크노믹스에 주는 의미를 객관적으로 짚는 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>알트코인</category>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
