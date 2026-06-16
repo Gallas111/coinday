@@ -5,8 +5,32 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 15 Jun 2026 02:55:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 02:02:46 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[거래소 계정 해킹 당했을 때 대응 5단계 — 출금 정지·신고·복구 순서 가이드 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-exchange-account-hacked-response-withdrawal-freeze-report-recovery-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-exchange-account-hacked-response-withdrawal-freeze-report-recovery-guide</guid>
+      <description><![CDATA[코인 거래소 계정이 해킹당했거나 의심될 때 가장 먼저 무엇을 해야 하는지 순서대로 정리했어요. 출금 정지·세션 종료·증거 보존·고객센터 신고·경찰/KISA 접수까지 5단계 대응 흐름과 사고 후 계정 복구·재발 방지 체크리스트를 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 포지션 사이징 자금관리 가이드 — 1% 룰·켈리 공식으로 계좌 지키는 법 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-position-sizing-money-management-1-percent-rule-kelly-account-protection-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-position-sizing-money-management-1-percent-rule-kelly-account-protection-guide</guid>
+      <description><![CDATA[코인 트레이딩에서 한 번의 손실로 계좌가 반토막 나지 않게 막아주는 포지션 사이징과 자금관리를 정리했어요. 1% 룰의 원리, 손절 거리로 진입 수량 계산하는 법, 켈리 공식의 의미와 한계, 초보가 흔히 하는 실수까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[지니어스법 스테이블코인 규칙 7월 18일 마감 — 핵심 일정과 보유자에게 생기는 변화 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/genius-act-stablecoin-rules-july-18-2026-deadline-schedule-holder-impact-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/genius-act-stablecoin-rules-july-18-2026-deadline-schedule-holder-impact-guide</guid>
+      <description><![CDATA[미국 지니어스법(GENIUS Act) 시행 규칙 마감이 2026년 7월 18일로 다가왔어요. 1년 전 법 통과 이후 무엇이 정해졌고, 7월 18일과 2027년 1월에 무엇이 바뀌는지, 이자 금지가 USDC 보유자에게 어떤 영향을 주는지 일정 중심으로 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>코인뉴스</category>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[거래소 가짜 거래량 구분법 — 자전거래와 진짜 유동성 확인하는 5가지 방법]]></title>
       <link>https://www.coindaynow.com/blog/crypto-exchange-fake-volume-wash-trading-real-liquidity-check-guide</link>
@@ -381,30 +405,6 @@
       <guid isPermaLink="true">https://www.coindaynow.com/blog/ethereum-1700-june-2026-etf-outflow-correction-weak-outlook</guid>
       <description><![CDATA[2026년 6월 초 이더리움(ETH)이 1,700달러 부근까지 밀리며 약세 국면을 이어갔어요. 비트코인 현물 ETF 13일 연속 순유출(약 44억 달러), 매크로·지정학 변수, 시장 전체의 큰 폭 조정이 겹친 배경과 ETH가 약한 이유를 균형 있게 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
       <category>시세·전망</category>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FOMC·CPI 이벤트 매매 가이드 — 'sell the news'와 변동성 대응 5요소 정리]]></title>
-      <link>https://www.coindaynow.com/blog/fomc-cpi-macro-event-sell-the-news-volatility-trading-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/fomc-cpi-macro-event-sell-the-news-volatility-trading-guide</guid>
-      <description><![CDATA[6월 CPI(10일)·FOMC(16~17일)처럼 일정이 정해진 매크로 이벤트는 발표 전후로 변동성이 몰려요. 포지션 선반영과 'sell the news', 발표 직후 휩쏘, 펀딩비·미결제약정으로 군중 쏠림 읽는 법, 그리고 이벤트 구간 리스크 관리까지 균형 있게 정리한 트레이딩 정보 가이드예요. 매매 권유가 아니에요.]]></description>
-      <category>트레이딩전략</category>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[스텔라 XLM DTCC 토큰화 증권 선정 2026 — 80% 급등 배경과 RWA 흐름 정리]]></title>
-      <link>https://www.coindaynow.com/blog/stellar-xlm-dtcc-tokenized-securities-june-2026-rwa-surge-outlook</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/stellar-xlm-dtcc-tokenized-securities-june-2026-rwa-surge-outlook</guid>
-      <description><![CDATA[2026년 6월 미국 예탁결제기관 DTCC가 토큰화 증권 인프라로 스텔라(XLM) 네트워크를 선택하면서 XLM이 한 주 동안 80% 가까이 급등했어요. 선정 배경, 1조 달러대 일일 결제 규모의 의미, RWA(실물자산 토큰화) 흐름과 단기 급등의 한계를 균형 있게 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>알트코인</category>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[업비트 두나무-네이버 합병 3개월 지연 2026 — 공정위 심사·34% 지분 캡 정리]]></title>
-      <link>https://www.coindaynow.com/blog/upbit-dunamu-naver-merger-delay-june-2026-kftc-ownership-cap-outlook</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/upbit-dunamu-naver-merger-delay-june-2026-kftc-ownership-cap-outlook</guid>
-      <description><![CDATA[2026년 두나무(업비트 운영사)와 네이버파이낸셜의 합병이 공정위 심사 장기화로 3개월 미뤄졌어요. 완료 시점이 6월 30일에서 9월 30일로, 주주총회는 8월로 연기됐죠. 지연 배경, 디지털자산기본법의 34% 지분 한도 변수, 두나무 IPO 계획까지 균형 있게 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>거래소</category>
       <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
