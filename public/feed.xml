@@ -5,8 +5,48 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 20 Jun 2026 04:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 02:29:28 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[코인 호가창(오더북) 보는 법 — 매수벽·매도벽과 체결강도 읽기 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-orderbook-reading-bid-ask-wall-trade-strength-beginner-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-orderbook-reading-bid-ask-wall-trade-strength-beginner-guide</guid>
+      <description><![CDATA[코인 거래소 호가창(오더북)을 처음 보는 분을 위해 매수·매도 호가, 매수벽·매도벽, 체결강도, 호가 단위가 무엇이고 어떻게 읽는지 정리했어요. 가짜 벽에 속지 않는 법까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>시세·전망</category>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 현물거래 vs 선물거래 차이 — 레버리지와 청산 위험 초보 가이드 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-spot-vs-futures-trading-difference-leverage-liquidation-beginner-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-spot-vs-futures-trading-difference-leverage-liquidation-beginner-guide</guid>
+      <description><![CDATA[코인 현물거래와 선물거래가 어떻게 다른지, 레버리지·증거금·청산이 무엇인지 초보 눈높이로 정리했어요. 선물의 손익이 왜 커지는지, 청산은 언제 일어나는지, 초보가 조심할 점까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 지갑 시드 문구 백업·복구 — 니모닉 분실 막는 안전한 보관법 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-wallet-seed-phrase-backup-recovery-mnemonic-storage-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-wallet-seed-phrase-backup-recovery-mnemonic-storage-guide</guid>
+      <description><![CDATA[코인 지갑의 시드 문구(니모닉·복구 문구)가 무엇인지, 왜 12·24개 단어가 자산 그 자체인지, 안전하게 백업하고 분실 시 복구하는 법, 절대 하면 안 되는 보관 방식까지 정리했어요. 자산을 지키는 기본기를 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>DeFi·NFT</category>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[달러 인덱스(DXY)와 비트코인 상관관계 — 매크로로 코인 시장 읽는 법 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/dollar-index-dxy-bitcoin-correlation-macro-crypto-market-reading-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/dollar-index-dxy-bitcoin-correlation-macro-crypto-market-reading-guide</guid>
+      <description><![CDATA[달러 인덱스(DXY)가 오르면 왜 코인이 눌리는지, 역상관관계의 원리와 한계, 2026년 6월 매파 FOMC 이후 달러 강세 국면에서 코인 시장을 읽는 법을 정리했어요. 가격 예측이 아니라 매크로 지표를 보는 눈을 키우는 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[레이어1 vs 레이어2 차이 — 메인넷과 확장 솔루션 쉽게 이해하기 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/layer1-vs-layer2-blockchain-difference-mainnet-scaling-beginner-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/layer1-vs-layer2-blockchain-difference-mainnet-scaling-beginner-guide</guid>
+      <description><![CDATA[코인을 보다 보면 자주 나오는 레이어1·레이어2가 무엇인지, 메인넷과 확장 솔루션이 어떻게 다른지, 롤업·사이드체인은 뭔지 초보 눈높이로 정리했어요. 어떤 코인이 어느 계층인지 구분하는 법까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>알트코인</category>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[알트코인 급등(펌프) 신호와 세력 매집 구분법 (2026)]]></title>
       <link>https://www.coindaynow.com/blog/altcoin-pump-accumulation-signal-volume-wash-distinguish-guide</link>
@@ -29,6 +69,22 @@
       <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-staking-what-is-rewards-mechanism-risk-lockup-beginner-guide</guid>
       <description><![CDATA[코인 스테이킹이 무엇인지, 보상이 어디서 나오는지, 슬래싱·락업·가격 변동 같은 위험은 무엇인지 초보 눈높이로 정리했어요. 거래소 스테이킹과 직접 스테이킹의 차이, 시작 전 점검 항목까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
       <category>DeFi·NFT</category>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 출금이 안 돼요 — 출금 지연·막힘 원인 7가지와 점검 순서 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-withdrawal-delayed-stuck-causes-exchange-deposit-troubleshooting-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-withdrawal-delayed-stuck-causes-exchange-deposit-troubleshooting-guide</guid>
+      <description><![CDATA[거래소에서 코인 출금이 안 되거나 자꾸 지연될 때, 원인은 대부분 정해져 있어요. 첫 입금 72시간 제한, 24시간 출금 지연제, 출금 한도, 최소 수량, 네트워크 혼잡, 점검, 트래블룰까지 출금 막힘 원인 7가지와 차례대로 점검하는 순서를 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[김치프리미엄이란 — 뜻과 한국 코인 가격이 비싼 이유, 김프 확인하는 법 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/kimchi-premium-what-is-meaning-korea-crypto-price-gap-check-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/kimchi-premium-what-is-meaning-korea-crypto-price-gap-check-guide</guid>
+      <description><![CDATA[같은 비트코인인데 업비트 가격이 바이낸스보다 비싼 이유, 바로 김치프리미엄이에요. 김프의 뜻과 발생 원인, 역프리미엄, 김프가 높을 때 시장이 보내는 신호, 김프 확인 사이트 보는 법까지 초보 눈높이로 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>시세·전망</category>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -350,62 +406,6 @@
       <description><![CDATA[코인 세금이 언제부터 시작되는지 즉답으로 정리했어요. 2027년 1월 1일 시행 확정, 기타소득 22% 세율과 연 250만원 기본공제, 보유자에게 중요한 의제취득가액 규정, 그리고 2026년 안에 투자자가 확인해 둘 체크리스트 5가지까지 담은 정보 글이에요. 세무 자문이나 매매 권유가 아니에요.]]></description>
       <category>코인뉴스</category>
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[알트코인 전망 2026년 6월 중순 — 도미넌스 고점에서 켜진 회복 신호 3가지]]></title>
-      <link>https://www.coindaynow.com/blog/altcoin-outlook-mid-june-2026-btc-dominance-200dma-recovery-signals</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/altcoin-outlook-mid-june-2026-btc-dominance-200dma-recovery-signals</guid>
-      <description><![CDATA[2026년 6월 중순 기준 알트코인 전망을 데이터로 점검했어요. 비트코인 도미넌스 60% 안팎 고점, 알트시즌 지수 30대의 비트코인 시즌이 이어지는 가운데, 200일선 위 알트 비중 21%(9개월 만에 최고)·비트코인 제외 시총 개선·거래량 회복이라는 신호 3가지가 동시에 켜졌어요. CPI 통과 후 FOMC까지의 변수와 리스크를 함께 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>알트코인</category>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[교차마진 격리마진 차이 — 코인 선물 청산가가 달라지는 이유와 선택 기준]]></title>
-      <link>https://www.coindaynow.com/blog/cross-margin-isolated-margin-difference-crypto-futures-liquidation-price-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/cross-margin-isolated-margin-difference-crypto-futures-liquidation-price-guide</guid>
-      <description><![CDATA[같은 코인, 같은 레버리지로 진입해도 마진 모드(교차·격리)에 따라 청산가가 완전히 달라져요. 격리는 포지션 증거금까지만 잃고 청산가가 가깝고, 교차는 잔고 전체가 버티는 대신 전부 잃을 수 있어요. 두 모드의 구조·청산가 차이·상황별 선택 기준을 정리한 정보 가이드예요. 매매 권유가 아니에요.]]></description>
-      <category>트레이딩전략</category>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[코인 출금 네트워크 선택 가이드 — TRC20 ERC20 차이와 잘못 보냈을 때 대처법]]></title>
-      <link>https://www.coindaynow.com/blog/crypto-withdrawal-network-selection-trc20-erc20-fee-difference-wrong-network-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-withdrawal-network-selection-trc20-erc20-fee-difference-wrong-network-guide</guid>
-      <description><![CDATA[같은 USDT라도 출금 네트워크(TRC20·ERC20·솔라나 등)에 따라 수수료가 수십 배 차이 나고, 잘못 고르면 자산이 묶일 수 있어요. 네트워크별 수수료·속도 비교표, 출금 전 체크리스트 5가지, 네트워크를 잘못 선택해 보냈을 때 상황별 대처까지 정리한 정보 가이드예요. 매매 권유가 아니에요.]]></description>
-      <category>거래소</category>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[스트래티지 4년 만의 비트코인 매도 소동 — 32 BTC 팔고 일주일 뒤 1,550개 재매수한 전말]]></title>
-      <link>https://www.coindaynow.com/blog/strategy-microstrategy-first-bitcoin-sale-since-2022-rebuy-1550-btc-june-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/strategy-microstrategy-first-bitcoin-sale-since-2022-rebuy-1550-btc-june-2026</guid>
-      <description><![CDATA[세계 최대 기업 비트코인 보유사 스트래티지(구 마이크로스트래티지)가 2022년 이후 처음으로 비트코인을 매도했어요. 5월 말 32 BTC(약 250만 달러) 매도가 6월 1일 공시로 알려지자 시장은 한 주간 시총 1,600억 달러를 지웠는데, 일주일 뒤인 6월 8일 회사는 1,550 BTC(약 1억 100만 달러) 재매수를 발표했어요. 매도 이유·시장 반응·재매수까지 사건의 전말을 타임라인으로 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>코인뉴스</category>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5월 CPI 결과 해석 — 헤드라인 4.2%에도 비트코인이 버틴 이유, 코어 2.9%의 의미]]></title>
-      <link>https://www.coindaynow.com/blog/us-may-cpi-result-headline-42-core-29-bitcoin-61k-fomc-interpretation</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/us-may-cpi-result-headline-42-core-29-bitcoin-61k-fomc-interpretation</guid>
-      <description><![CDATA[6월 10일 발표된 미국 5월 CPI 실제 결과를 정리했어요. 헤드라인 4.2%(예상 부합)·코어 2.9%(월간 0.2%로 예상 하회), 에너지가 월간 상승분의 60% 이상을 차지한 구조, 비트코인이 6만 1천 달러대를 지킨 배경, 그리고 6월 17일 FOMC 점도표로 이어지는 경로까지 발표 후 관점에서 해석한 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[비트코인 5월 CPI 발표 당일 — 4.2% 예상치와 달러인덱스 반응 시나리오]]></title>
-      <link>https://www.coindaynow.com/blog/bitcoin-may-cpi-release-day-june-2026-dxy-rate-scenarios-outlook</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-may-cpi-release-day-june-2026-dxy-rate-scenarios-outlook</guid>
-      <description><![CDATA[6월 10일 밤(현지 오전 8시 30분) 5월 미국 CPI가 발표돼요. 헤드라인 4.2%·코어 2.9% 예상치, 달러인덱스(DXY) 시나리오, 6월 17일 FOMC로 이어지는 금리 경로, 그리고 비트코인 6만 달러대 지지 구간을 발표 당일 관점에서 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CPI 발표 직후 휩쏘 피하기 — 변동성 수축 후 진입하는 이벤트 매매 가이드]]></title>
-      <link>https://www.coindaynow.com/blog/cpi-release-day-whipsaw-fakeout-volatility-contraction-trading-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/cpi-release-day-whipsaw-fakeout-volatility-contraction-trading-guide</guid>
-      <description><![CDATA[지표 발표 직후 1분 봉 급등락에 쓸리는 휩쏘·페이크아웃은 이벤트 매매 초보가 가장 자주 당하는 함정이에요. 변동성 확장·수축 구조, 발표 직후를 관찰하는 이유, 스프레드·청산가 관리까지 6월 10일 CPI를 예로 정리한 정보 가이드예요.]]></description>
-      <category>트레이딩전략</category>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
