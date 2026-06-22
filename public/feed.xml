@@ -5,7 +5,7 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 22 Jun 2026 02:58:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 03:17:40 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title><![CDATA[하드웨어 지갑(콜드월렛) vs 핫월렛 차이 — 코인 보관 지갑 고르는 법 (2026)]]></title>
@@ -24,11 +24,27 @@
       <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title><![CDATA[DEX vs CEX 차이 — 탈중앙화 거래소와 중앙화 거래소 초보 비교 가이드 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/dex-vs-cex-decentralized-centralized-exchange-difference-beginner-comparison-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/dex-vs-cex-decentralized-centralized-exchange-difference-beginner-comparison-guide</guid>
+      <description><![CDATA[코인 거래소를 고를 때 자주 보이는 DEX(탈중앙화 거래소)와 CEX(중앙화 거래소)가 자산 보관·가입 방식·수수료·보안에서 어떻게 다른지, 초보는 무엇부터 시작하면 좋은지 쉽게 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title><![CDATA[신규 상장 코인 초기 진입 위험 — 상장빔과 변동성 점검 체크리스트 (2026)]]></title>
       <link>https://www.coindaynow.com/blog/new-listing-altcoin-initial-volatility-listing-pump-risk-checklist-guide</link>
       <guid isPermaLink="true">https://www.coindaynow.com/blog/new-listing-altcoin-initial-volatility-listing-pump-risk-checklist-guide</guid>
       <description><![CDATA[거래소에 새로 상장한 코인이 왜 급등 직후 급락하는지(상장빔), 신규 상장 코인의 초기 변동성이 왜 큰지, 진입 전 무엇을 점검해야 하는지 초보용 체크리스트로 정리한 정보 글이에요. 특정 코인 매매 권유가 아니에요.]]></description>
       <category>알트코인</category>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[스테이블코인 시가총액으로 시장 유동성 읽는 법 — USDT·USDC 발행량 신호 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/stablecoin-marketcap-supply-crypto-market-liquidity-reading-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/stablecoin-marketcap-supply-crypto-market-liquidity-reading-guide</guid>
+      <description><![CDATA[스테이블코인 전체 시가총액과 USDT·USDC 발행량이 늘고 줄어드는 흐름으로 코인 시장에 들어오고 나가는 '대기 자금'을 어떻게 가늠하는지, 어디서 확인하고 무엇을 조심해야 하는지 초보용으로 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>코인뉴스</category>
       <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -390,22 +406,6 @@
       <description><![CDATA[코인 매매에서 승률보다 중요한 손익비(R:R) 개념과 손절·익절 비율 잡는 법을 정리했어요. 1R 리스크 단위, 1:2 원칙, FOMC 같은 변동성 이벤트 주간의 R:R 관리, 흔한 실수 5가지까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
       <category>트레이딩전략</category>
       <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[6월 FOMC D-4 — 비트코인 점도표 대기 구간, 시나리오 3갈래와 주말 체크리스트]]></title>
-      <link>https://www.coindaynow.com/blog/bitcoin-fomc-june-2026-d4-dot-plot-waiting-zone-positioning-checklist</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-fomc-june-2026-d4-dot-plot-waiting-zone-positioning-checklist</guid>
-      <description><![CDATA[6월 16~17일 FOMC를 나흘 앞둔 비트코인 시장을 정리했어요. 동결 확률 96~99% 속 진짜 변수인 점도표 3갈래 시나리오, 블랙아웃 대기 구간의 특징, 6만 2천 달러 박스권에서 주말에 점검할 체크리스트까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[비트코인 숏 헷지 방법 — 현물을 팔지 않고 하락을 방어하는 선물 활용 가이드]]></title>
-      <link>https://www.coindaynow.com/blog/bitcoin-spot-holder-short-hedge-futures-event-week-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-spot-holder-short-hedge-futures-event-week-guide</guid>
-      <description><![CDATA[현물 비트코인을 팔지 않고 이벤트 주간 하락 위험을 선물 숏으로 상쇄하는 숏 헷지 원리를 정리했어요. 풀·부분 헷지 차이, 펀딩비 등 비용 3가지, 헷지 포지션의 청산 위험과 흔한 실수 5가지까지 가상 예시로 담은 정보 가이드예요. 매매 권유가 아니에요.]]></description>
-      <category>트레이딩전략</category>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
