@@ -5,8 +5,32 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 22 Jun 2026 02:29:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 02:58:29 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[하드웨어 지갑(콜드월렛) vs 핫월렛 차이 — 코인 보관 지갑 고르는 법 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-hardware-cold-wallet-vs-hot-wallet-difference-choosing-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-hardware-cold-wallet-vs-hot-wallet-difference-choosing-guide</guid>
+      <description><![CDATA[코인을 거래소 밖에 보관할 때 쓰는 핫월렛과 콜드월렛(하드웨어 지갑)이 무엇이 다른지, 각각의 장단점과 해킹 위험, 자산 규모별로 어떻게 나눠 쓰면 좋은지 초보용으로 정리한 정보 글이에요. 특정 제품 매매 권유가 아니에요.]]></description>
+      <category>DeFi·NFT</category>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[레버리지 청산가 계산하는 법 — 선물 청산가격 공식과 안전 마진 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/crypto-leverage-liquidation-price-calculation-isolated-cross-margin-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-leverage-liquidation-price-calculation-isolated-cross-margin-guide</guid>
+      <description><![CDATA[코인 선물에서 청산가가 어떻게 정해지는지, 격리·교차 마진에 따라 청산가격이 어떻게 달라지는지, 레버리지가 청산가에 미치는 영향과 안전 마진 잡는 법까지 초보용으로 정리한 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[신규 상장 코인 초기 진입 위험 — 상장빔과 변동성 점검 체크리스트 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/new-listing-altcoin-initial-volatility-listing-pump-risk-checklist-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/new-listing-altcoin-initial-volatility-listing-pump-risk-checklist-guide</guid>
+      <description><![CDATA[거래소에 새로 상장한 코인이 왜 급등 직후 급락하는지(상장빔), 신규 상장 코인의 초기 변동성이 왜 큰지, 진입 전 무엇을 점검해야 하는지 초보용 체크리스트로 정리한 정보 글이에요. 특정 코인 매매 권유가 아니에요.]]></description>
+      <category>알트코인</category>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[코인 호가창(오더북) 보는 법 — 매수벽·매도벽과 체결강도 읽기 (2026)]]></title>
       <link>https://www.coindaynow.com/blog/crypto-orderbook-reading-bid-ask-wall-trade-strength-beginner-guide</link>
@@ -381,30 +405,6 @@
       <guid isPermaLink="true">https://www.coindaynow.com/blog/bitcoin-spot-holder-short-hedge-futures-event-week-guide</guid>
       <description><![CDATA[현물 비트코인을 팔지 않고 이벤트 주간 하락 위험을 선물 숏으로 상쇄하는 숏 헷지 원리를 정리했어요. 풀·부분 헷지 차이, 펀딩비 등 비용 3가지, 헷지 포지션의 청산 위험과 흔한 실수 5가지까지 가상 예시로 담은 정보 가이드예요. 매매 권유가 아니에요.]]></description>
       <category>트레이딩전략</category>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[코인 상장폐지 되면 어떻게 되나 — 유의종목 지정부터 출금 지원 종료까지 대응 순서]]></title>
-      <link>https://www.coindaynow.com/blog/crypto-delisting-caution-designation-withdrawal-support-response-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-delisting-caution-designation-withdrawal-support-response-guide</guid>
-      <description><![CDATA[보유 코인이 상장폐지(거래지원 종료)되면 무슨 일이 일어나는지 절차 순서대로 정리했어요. 유의종목 지정과 소명, 매매 종료, 출금 지원 기간까지 단계별로 투자자가 해야 할 일과 흔한 실수, 주식 정리매매와의 차이, 출금 기간을 놓쳤을 때 대처까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>거래소</category>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[이더리움 가스비 절약 방법 7가지 — 수수료 구조부터 L2 활용까지 (2026)]]></title>
-      <link>https://www.coindaynow.com/blog/ethereum-gas-fee-saving-methods-l2-timing-structure-guide-2026</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/ethereum-gas-fee-saving-methods-l2-timing-structure-guide-2026</guid>
-      <description><![CDATA[2026년 이더리움 가스비는 평시 1 Gwei 미만이지만 이벤트 때는 수십 배로 튀어요. 베이스피·우선수수료 구조, 작업별 가스 소모량, 시간대·트래커·L2·지갑 설정을 활용한 절약 방법 7가지를 실측 수치와 함께 정리한 정보 가이드예요. 매매 권유가 아니에요.]]></description>
-      <category>DeFi·NFT</category>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[코인 세금 언제부터? 2027년 가상자산 과세 확정 — 올해 안에 확인할 것 5가지]]></title>
-      <link>https://www.coindaynow.com/blog/korea-crypto-tax-2027-start-when-2026-year-end-checklist</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/korea-crypto-tax-2027-start-when-2026-year-end-checklist</guid>
-      <description><![CDATA[코인 세금이 언제부터 시작되는지 즉답으로 정리했어요. 2027년 1월 1일 시행 확정, 기타소득 22% 세율과 연 250만원 기본공제, 보유자에게 중요한 의제취득가액 규정, 그리고 2026년 안에 투자자가 확인해 둘 체크리스트 5가지까지 담은 정보 글이에요. 세무 자문이나 매매 권유가 아니에요.]]></description>
-      <category>코인뉴스</category>
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
