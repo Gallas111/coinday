@@ -5,8 +5,32 @@
     <link>https://www.coindaynow.com</link>
     <description>비트코인·이더리움부터 알트코인·DeFi·NFT까지 매일 정리되는 코인 시세·뉴스·전략 매체. 시세·전망, 알트코인, 거래소, 코인뉴스, 트레이딩전략, DeFi·NFT 카테고리. 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 02:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 01:32:20 GMT</lastBuildDate>
     <atom:link href="https://www.coindaynow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[골든크로스 데드크로스란 — 이동평균선 매매 신호 보는 법 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/golden-cross-death-cross-moving-average-crypto-trading-signal-beginner-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/golden-cross-death-cross-moving-average-crypto-trading-signal-beginner-guide</guid>
+      <description><![CDATA[코인 차트에서 자주 듣는 골든크로스와 데드크로스가 무엇인지, 50일선과 200일선이 교차할 때 어떤 의미인지 초보용으로 정리했어요. 이동평균선 매매의 원리와 후행 지표의 한계, 거래량·추세와 함께 보는 법까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>트레이딩전략</category>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[처음 코인 사는 법 — 거래소 가입부터 원화 입금·매수까지 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/how-to-buy-crypto-first-time-krw-deposit-exchange-purchase-beginner-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/how-to-buy-crypto-first-time-krw-deposit-exchange-purchase-beginner-guide</guid>
+      <description><![CDATA[코인을 처음 사 보는 분을 위해 거래소 가입과 본인인증, 실명계좌 연결, 원화 입금, 그리고 KRW 마켓에서 실제로 매수하는 순서를 단계별로 정리했어요. 시장가·지정가 차이와 초보가 흔히 막히는 지점까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>거래소</category>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[스테이블코인이란 — 종류와 1달러 유지 원리 정리 (2026)]]></title>
+      <link>https://www.coindaynow.com/blog/what-is-stablecoin-types-fiat-crypto-algorithmic-peg-mechanism-beginner-guide</link>
+      <guid isPermaLink="true">https://www.coindaynow.com/blog/what-is-stablecoin-types-fiat-crypto-algorithmic-peg-mechanism-beginner-guide</guid>
+      <description><![CDATA[스테이블코인이 무엇이고 어떻게 1달러를 유지하는지, 법정화폐 담보·암호화폐 담보·알고리즘이라는 세 가지 종류가 어떻게 다른지 초보용으로 정리했어요. USDT·USDC·DAI의 차이와 알고리즘형의 붕괴 위험까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
+      <category>DeFi·NFT</category>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[코인 보조지표 RSI·MACD·볼린저밴드 보는 법 — 초보 매매 조합 가이드 (2026)]]></title>
       <link>https://www.coindaynow.com/blog/crypto-rsi-macd-bollinger-bands-indicator-trading-beginner-guide</link>
@@ -381,30 +405,6 @@
       <guid isPermaLink="true">https://www.coindaynow.com/blog/crypto-partial-take-profit-scaling-out-position-management-guide</guid>
       <description><![CDATA[가격이 올랐을 때 전량 매도와 분할 익절(부분 익절) 중 무엇이 나은지 정리했어요. 분할 익절의 원리, 25퍼센트씩 단계 매도하는 라더링, 트레일링 스톱과 결합하는 법, 흔한 실수와 자가진단 체크리스트까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
       <category>트레이딩전략</category>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FOMC 점도표가 비트코인을 움직이는 이유 — 6월 17일 시나리오별 대응 가이드]]></title>
-      <link>https://www.coindaynow.com/blog/fomc-dot-plot-bitcoin-mechanism-june-17-2026-scenario-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/fomc-dot-plot-bitcoin-mechanism-june-17-2026-scenario-guide</guid>
-      <description><![CDATA[6월 16~17일 FOMC를 앞두고 금리 결정보다 점도표(dot plot)가 비트코인을 더 크게 흔드는 이유를 정리했어요. 점도표가 가격에 전달되는 경로, 6월 17일 매파·중립·비둘기 시나리오별 흐름, 발표 전후 변동성에 대비하는 체크리스트까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>시세·전망</category>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[솔라나 파이어댄서 완전 정리 — 검증인 클라이언트 다양성과 탈중앙화 리스크]]></title>
-      <link>https://www.coindaynow.com/blog/solana-firedancer-validator-client-diversity-decentralization-risk-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/solana-firedancer-validator-client-diversity-decentralization-risk-guide</guid>
-      <description><![CDATA[솔라나의 새 검증인 클라이언트 파이어댄서(Firedancer)가 왜 중요한지 정리했어요. 클라이언트 다양성이 네트워크 안정성에 주는 의미, 프랑켄댄서 스테이크 비중, 33% 임계치, 단일 클라이언트 의존 리스크와 투자자가 점검할 지표까지 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>알트코인</category>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[스테이블코인 디페그 조기경보 — 보유 전 점검하는 5가지 신호]]></title>
-      <link>https://www.coindaynow.com/blog/stablecoin-depeg-early-warning-signals-monitoring-checklist-guide</link>
-      <guid isPermaLink="true">https://www.coindaynow.com/blog/stablecoin-depeg-early-warning-signals-monitoring-checklist-guide</guid>
-      <description><![CDATA[스테이블코인이 1달러에서 벗어나는 디페그가 터지기 전에 보이는 조기 신호를 정리했어요. 가격 이탈 지속 시간, 준비금 보고 지연, 상환 대기열, 거래소 입출금 중단, 온체인 공급량 급감까지 무료 도구로 점검하는 5가지 신호와 체크리스트를 담은 정보 글이에요. 매매 권유가 아니에요.]]></description>
-      <category>DeFi·NFT</category>
       <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
