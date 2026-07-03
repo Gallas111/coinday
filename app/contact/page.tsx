@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
     title: '문의하기 | Coinday',
     description: 'Coinday에 문의하기. 콘텐츠 관련 제보, 오류 정정 요청, 광고·제휴 문의를 보내주세요.',
+    robots: { index: false, follow: true },
 };
 
 export default function ContactPage() {

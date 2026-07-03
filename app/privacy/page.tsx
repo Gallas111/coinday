@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 export const metadata: Metadata = {
   title: "개인정보 처리방침",
   description: "Coinday 블로그 개인정보 처리방침입니다.",
-  robots: { index: false, follow: false },
+  robots: { index: false, follow: true },
 };
 
 export default function PrivacyPage() {
