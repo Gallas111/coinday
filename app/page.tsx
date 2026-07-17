@@ -350,7 +350,7 @@ export default function HomePage() {
               주요 코인 시세·뉴스·정책 변화를 한 메일로. 광고 없는 정보 제공 매체.
             </p>
             <Link
-              href="/category/시세-전망"
+              href="/category/시세·전망"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-[var(--accent)] hover:bg-[var(--accent-strong)] text-[#0a0e1a] font-bold text-sm shadow-[0_0_28px_rgba(247,147,26,0.45)] transition-all"
             >
               오늘의 시세 보기 <span aria-hidden>→</span>

@@ -6,13 +6,14 @@ interface CTABannerProps {
   category?: string;
 }
 
+// href는 lib/categories.ts의 name과 정확히 일치해야 한다 (하이픈 표기는 404)
 const CATS = [
-  { name: "시세·전망", href: "/category/시세-전망", icon: "📈" },
+  { name: "시세·전망", href: "/category/시세·전망", icon: "📈" },
   { name: "알트코인", href: "/category/알트코인", icon: "🪙" },
   { name: "거래소", href: "/category/거래소", icon: "🏦" },
   { name: "코인뉴스", href: "/category/코인뉴스", icon: "📰" },
   { name: "트레이딩전략", href: "/category/트레이딩전략", icon: "🎯" },
-  { name: "DeFi·NFT", href: "/category/DeFi-NFT", icon: "⚡" },
+  { name: "DeFi·NFT", href: "/category/DeFi·NFT", icon: "⚡" },
 ];
 
 export default function CTABanner({ label, href, category }: CTABannerProps) {

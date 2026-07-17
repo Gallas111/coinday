@@ -44,12 +44,12 @@ export default function Footer() {
               Categories
             </h3>
             <ul className="space-y-2 text-sm">
-              <li><Link href="/category/시세-전망" className="text-[var(--muted-strong)] hover:text-[var(--accent)] transition-colors">시세·전망</Link></li>
+              <li><Link href="/category/시세·전망" className="text-[var(--muted-strong)] hover:text-[var(--accent)] transition-colors">시세·전망</Link></li>
               <li><Link href="/category/알트코인" className="text-[var(--muted-strong)] hover:text-[var(--accent)] transition-colors">알트코인</Link></li>
               <li><Link href="/category/거래소" className="text-[var(--muted-strong)] hover:text-[var(--accent)] transition-colors">거래소</Link></li>
               <li><Link href="/category/코인뉴스" className="text-[var(--muted-strong)] hover:text-[var(--accent)] transition-colors">코인뉴스</Link></li>
               <li><Link href="/category/트레이딩전략" className="text-[var(--muted-strong)] hover:text-[var(--accent)] transition-colors">트레이딩전략</Link></li>
-              <li><Link href="/category/DeFi-NFT" className="text-[var(--muted-strong)] hover:text-[var(--accent)] transition-colors">DeFi·NFT</Link></li>
+              <li><Link href="/category/DeFi·NFT" className="text-[var(--muted-strong)] hover:text-[var(--accent)] transition-colors">DeFi·NFT</Link></li>
             </ul>
           </div>
 

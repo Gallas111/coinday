@@ -4,13 +4,15 @@ import Link from "next/link";
 import { useState } from "react";
 import ThemeToggle from "./ThemeToggle";
 
+// href는 lib/categories.ts의 name과 정확히 일치해야 한다.
+// (category/[category] 라우트가 cat.name으로만 생성됨 — 하이픈 표기는 404)
 const NAV = [
-  { label: "시세·전망", href: "/category/시세-전망" },
+  { label: "시세·전망", href: "/category/시세·전망" },
   { label: "알트코인", href: "/category/알트코인" },
   { label: "거래소", href: "/category/거래소" },
   { label: "코인뉴스", href: "/category/코인뉴스" },
   { label: "전략", href: "/category/트레이딩전략" },
-  { label: "DeFi·NFT", href: "/category/DeFi-NFT" },
+  { label: "DeFi·NFT", href: "/category/DeFi·NFT" },
 ];
 
 export default function Header() {
