@@ -133,7 +133,7 @@ export default function PrivacyPage() {
               <li>웹사이트: coindaynow.com</li>
               <li>
                 이메일:{" "}
-                <a href="mailto:kingyw102@gmail.com">kingyw102@gmail.com</a>
+                <a href="mailto:btccharr@gmail.com">btccharr@gmail.com</a>
               </li>
             </ul>
           </section>

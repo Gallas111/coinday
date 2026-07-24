@@ -20,8 +20,8 @@ export default function ContactPage() {
                 <div className="bg-[var(--surface)] p-8 rounded-2xl border border-[var(--border)] text-center">
                     <div className="text-4xl mb-4">📧</div>
                     <h2 className="text-lg font-bold mb-2 text-[var(--foreground)]">이메일</h2>
-                    <a href="mailto:kingyw102@gmail.com" className="text-[var(--accent)] hover:text-[var(--accent-strong)] hover:underline">
-                        kingyw102@gmail.com
+                    <a href="mailto:btccharr@gmail.com" className="text-[var(--accent)] hover:text-[var(--accent-strong)] hover:underline">
+                        btccharr@gmail.com
                     </a>
                     <p className="text-sm text-[var(--muted)] mt-2">영업일 기준 1~2일 내 답변드립니다.</p>
                 </div>
