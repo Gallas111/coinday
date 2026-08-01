@@ -115,3 +115,21 @@ main push → CF Pages 자체 빌드 환경에서 자동 처리. 수동 배포 �
   exit 0 받을 때까지 보강 반복.
 - ⚠️ **파일 KB ≠ 한글 자수**. KB는 영문·이모지·MDX 마크업 포함. KB로 보고 금지 (5/9·5/11 ai-blog/coinday/easy/baby/health KB 혼동 thin 누적 사고 학습)
 - 사용자 보고 시 이 명령 출력값 그대로 사용
+
+## 🔴🔴 집필 전 필수 — 교차 사이트 중복 게이트 (2026-08-01 신설)
+
+coinday·tokennara·altnara 는 같은 운영자의 **hard 클러스터**다. 같은 쿼리를 두 도메인이 겨냥하면 서로를 잡아먹고, 같은 운영자 지문(네트워크로 보이는 것)이 된다.
+기존 게이트(`check-duplicate-post.py`·`check-keyword-overlap.py`)는 **같은 사이트 안만** 보므로 이 유형을 구조적으로 못 잡는다.
+
+```bash
+export PATH="/c/Users/owner/AppData/Local/Programs/Python/Python312:$PATH"
+python ~/scripts/check-crosssite-overlap.py coinday "<제목>" "<키워드1>" "<키워드2>"
+```
+
+- exit 0 = 작성 OK · exit 1 = 주의(각도 분리를 본문에 명시) · **exit 2 = 작성 금지, 다른 축으로 피벗**
+- 🔑 **키워드를 2개 이상 넘겨라.** 제목만으로는 같은 의도를 못 잡는다.
+- 🔑 키워드 후보는 상대 글의 `primary` 뿐 아니라 **secondary·longTail 까지** 읽고 골라라.
+- 클러스터 전수 감사: `python ~/scripts/check-crosssite-overlap.py --audit coin`
+- 🔴 **사이트 간 직접 링크 금지**(PBN 회피). 자매 사이트를 본문에 링크하거나 언급하지 마라.
+
+**실제로 벌어진 일(2026-08-01)**: `keywords.primary` 로 실측하니 세 사이트에 완전중복 **11쌍**이 있었다. 22편이 같은 키워드로 경쟁해 28일 노출 36·클릭 0. 10편을 축 이동시키고 1편은 noindex 처리했다. 판정은 **쌍별 28일 노출 우위**로 했다(0-0 동률이면 먼저 쓴 쪽 유지).
