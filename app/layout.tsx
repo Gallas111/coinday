@@ -177,6 +177,8 @@ export default function RootLayout({
             gtag('config', 'G-DN1HXH761P');
           `}
         </Script>
+        {/* 자체 방문 집계 비콘 — 쿠키 없음, DOM 변경 없음(CLS 무영향) */}
+        <script async src="https://blog-analytics.j-810.workers.dev/b.js" data-site="coinday"></script>
       </body>
     </html>
   );
